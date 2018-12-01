@@ -1,0 +1,71 @@
+\let \CTEX@spaceChar \relax 
+\contentsline {chapter}{Ä¿\CTEX@spaceChar \CTEX@spaceChar Â¼}{1}{chapter*.1}
+\contentsline {chapter}{\numberline {µÚÒ»ÕÂ\hspace {0.3em}}Neutron Star(LGS)}{3}{chapter.1}
+\contentsline {section}{\numberline {1.1}SLOWLY ROTATING RELATIVISTIC STARS. III. STATIC CRITERION FOR STABILITY}{4}{section.1.1}
+\contentsline {subsection}{\numberline {1.1.1}Abstract}{4}{subsection.1.1.1}
+\contentsline {subsection}{\numberline {1.1.2}Knowledge}{4}{subsection.1.1.2}
+\contentsline {subsection}{\numberline {1.1.3}Questions}{4}{subsection.1.1.3}
+\contentsline {section}{\numberline {1.2}NEUTRON STAR MATTER}{5}{section.1.2}
+\contentsline {subsection}{\numberline {1.2.1}Abstract}{5}{subsection.1.2.1}
+\contentsline {subsection}{\numberline {1.2.2}Knowledge}{5}{subsection.1.2.2}
+\contentsline {subsection}{\numberline {1.2.3}Questions}{5}{subsection.1.2.3}
+\contentsline {section}{\numberline {1.3}NEUTRON STAR ACCRETION IN A STELLAR WIND MODEL FOR A PULSED X-RAY SOURCE}{6}{section.1.3}
+\contentsline {subsection}{\numberline {1.3.1}Abstract}{6}{subsection.1.3.1}
+\contentsline {subsection}{\numberline {1.3.2}Knowledge}{6}{subsection.1.3.2}
+\contentsline {subsection}{\numberline {1.3.3}Questions}{6}{subsection.1.3.3}
+\contentsline {section}{\numberline {1.4}NEUTRON STAR MATTER AT SUB-NUCLEAR DENSITIES}{7}{section.1.4}
+\contentsline {subsection}{\numberline {1.4.1}Abstract}{7}{subsection.1.4.1}
+\contentsline {subsection}{\numberline {1.4.2}Knowledge}{7}{subsection.1.4.2}
+\contentsline {subsection}{\numberline {1.4.3}Questions}{7}{subsection.1.4.3}
+\contentsline {section}{\numberline {1.5}BLACK-HOLE NEUTRON-STAR COLLISIONS}{8}{section.1.5}
+\contentsline {subsection}{\numberline {1.5.1}Abstract}{8}{subsection.1.5.1}
+\contentsline {subsection}{\numberline {1.5.2}Knowledge}{8}{subsection.1.5.2}
+\contentsline {subsection}{\numberline {1.5.3}Questions}{8}{subsection.1.5.3}
+\contentsline {section}{\numberline {1.6}ACCRETION BY ROTATING MAGNETIC NEUTRON STARS. II. RADIAL AND VERTICAL STRUCTURE OF THE TRANSITION ZONE IN DISK ACCRETION}{9}{section.1.6}
+\contentsline {subsection}{\numberline {1.6.1}Abstract}{9}{subsection.1.6.1}
+\contentsline {subsection}{\numberline {1.6.2}Knowledge}{9}{subsection.1.6.2}
+\contentsline {subsection}{\numberline {1.6.3}Questions}{9}{subsection.1.6.3}
+\contentsline {section}{\numberline {1.7}ACCRETION BY ROTATING MAGNETIC NEUTRON STARS. III. ACCRETION TORQUES AND PERIOD CHANGES IN PULSATING X-RAY SOURCES}{10}{section.1.7}
+\contentsline {subsection}{\numberline {1.7.1}Abstract}{10}{subsection.1.7.1}
+\contentsline {subsection}{\numberline {1.7.2}Knowledge}{10}{subsection.1.7.2}
+\contentsline {subsection}{\numberline {1.7.3}Questions}{10}{subsection.1.7.3}
+\contentsline {section}{\numberline {1.8}NEUTRON STARS ARE GIANT HYPERNUCLEI}{11}{section.1.8}
+\contentsline {subsection}{\numberline {1.8.1}Abstract}{11}{subsection.1.8.1}
+\contentsline {subsection}{\numberline {1.8.2}Knowledge}{11}{subsection.1.8.2}
+\contentsline {subsection}{\numberline {1.8.3}Questions}{11}{subsection.1.8.3}
+\contentsline {section}{\numberline {1.9}THE BIRTH OF NEUTRON STARS}{12}{section.1.9}
+\contentsline {subsection}{\numberline {1.9.1}Abstract}{12}{subsection.1.9.1}
+\contentsline {subsection}{\numberline {1.9.2}Knowledge}{12}{subsection.1.9.2}
+\contentsline {subsection}{\numberline {1.9.3}Questions}{12}{subsection.1.9.3}
+\contentsline {section}{\numberline {1.10}EQUATION OF STATE AND THE MAXIMUM MASS OF NEUTRON STARS}{13}{section.1.10}
+\contentsline {subsection}{\numberline {1.10.1}Abstract}{13}{subsection.1.10.1}
+\contentsline {subsection}{\numberline {1.10.2}Knowledge}{13}{subsection.1.10.2}
+\contentsline {subsection}{\numberline {1.10.3}Questions}{13}{subsection.1.10.3}
+\contentsline {section}{\numberline {1.11}NUCLEOSYNTHESIS, NEUTRINO BURSTS AND GAMMA-RAYS FROM COALESCING NEUTRON STARS}{14}{section.1.11}
+\contentsline {subsection}{\numberline {1.11.1}Abstract}{14}{subsection.1.11.1}
+\contentsline {subsection}{\numberline {1.11.2}Knowledge}{14}{subsection.1.11.2}
+\contentsline {subsection}{\numberline {1.11.3}Questions}{14}{subsection.1.11.3}
+\contentsline {section}{\numberline {1.12}SUPERNOVA MECHANISMS}{15}{section.1.12}
+\contentsline {subsection}{\numberline {1.12.1}Abstract}{15}{subsection.1.12.1}
+\contentsline {subsection}{\numberline {1.12.2}Knowledge}{15}{subsection.1.12.2}
+\contentsline {subsection}{\numberline {1.12.3}Questions}{15}{subsection.1.12.3}
+\contentsline {section}{\numberline {1.13}FORMATION AND EVOLUTION OF BINARY AND MILLISECOND RADIO PULSARS}{16}{section.1.13}
+\contentsline {subsection}{\numberline {1.13.1}Abstract}{16}{subsection.1.13.1}
+\contentsline {subsection}{\numberline {1.13.2}Knowledge}{17}{subsection.1.13.2}
+\contentsline {subsection}{\numberline {1.13.3}Questions}{17}{subsection.1.13.3}
+\contentsline {section}{\numberline {1.14}RECONCILIATION OF NEUTRON-STAR MASSES AND BINDING OF THE LAMBDA IN HYPERNUCLEI}{18}{section.1.14}
+\contentsline {subsection}{\numberline {1.14.1}Abstract}{18}{subsection.1.14.1}
+\contentsline {subsection}{\numberline {1.14.2}Knowledge}{18}{subsection.1.14.2}
+\contentsline {subsection}{\numberline {1.14.3}Questions}{18}{subsection.1.14.3}
+\contentsline {section}{\numberline {1.15}DIRECT URCA PROCESS IN NEUTRON-STARS}{19}{section.1.15}
+\contentsline {subsection}{\numberline {1.15.1}Abstract}{19}{subsection.1.15.1}
+\contentsline {subsection}{\numberline {1.15.2}Knowledge}{19}{subsection.1.15.2}
+\contentsline {subsection}{\numberline {1.15.3}Questions}{19}{subsection.1.15.3}
+\contentsline {section}{\numberline {1.16}A GENERALIZED EQUATION OF STATE FOR HOT, DENSE MATTER}{20}{section.1.16}
+\contentsline {subsection}{\numberline {1.16.1}Abstract}{20}{subsection.1.16.1}
+\contentsline {subsection}{\numberline {1.16.2}Knowledge}{20}{subsection.1.16.2}
+\contentsline {subsection}{\numberline {1.16.3}Questions}{20}{subsection.1.16.3}
+\contentsline {section}{\numberline {1.17}NEUTRON-STAR AND BLACK-HOLE BINARIES IN THE GALAXY}{21}{section.1.17}
+\contentsline {subsection}{\numberline {1.17.1}Abstract}{21}{subsection.1.17.1}
+\contentsline {subsection}{\numberline {1.17.2}Knowledge}{21}{subsection.1.17.2}
+\contentsline {subsection}{\numberline {1.17.3}Questions}{21}{subsection.1.17.3}
