@@ -69,3 +69,7 @@
 \contentsline {subsection}{\numberline {1.17.1}Abstract}{21}{subsection.1.17.1}
 \contentsline {subsection}{\numberline {1.17.2}Knowledge}{21}{subsection.1.17.2}
 \contentsline {subsection}{\numberline {1.17.3}Questions}{21}{subsection.1.17.3}
+\contentsline {section}{\numberline {1.18}THE RATE OF NEUTRON-STAR BINARY MERGERS IN THE UNIVERSE - MINIMAL PREDICTIONS FOR GRAVITY-WAVE DETECTORS}{22}{section.1.18}
+\contentsline {subsection}{\numberline {1.18.1}Abstract}{22}{subsection.1.18.1}
+\contentsline {subsection}{\numberline {1.18.2}Knowledge}{22}{subsection.1.18.2}
+\contentsline {subsection}{\numberline {1.18.3}Questions}{22}{subsection.1.18.3}
