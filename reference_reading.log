@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=latex 2018.10.13)  3 DEC 2018 08:41
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=latex 2018.10.13)  12 DEC 2018 13:55
 entering extended mode
 **reference_reading.tex
 (D:\Yang\学习\文献阅读\reference_reading.tex
@@ -648,7 +648,13 @@ LaTeX Warning: Command \@footnotemark  has changed.
 (D:\Yang\学习\文献阅读\reference/10.1103_PhysRevLett.66.2701.aux)
 (D:\Yang\学习\文献阅读\reference/10.1016_0375-9474(91)90452-c.aux)
 (D:\Yang\学习\文献阅读\reference/10.1086_186143.aux)
-(D:\Yang\学习\文献阅读\reference/10.1086_186163.aux))
+(D:\Yang\学习\文献阅读\reference/10.1086_186163.aux)
+(D:\Yang\学习\文献阅读\reference/10.1126_science.256.5055.325.aux)
+(D:\Yang\学习\文献阅读\reference/10.1086_171983.aux)
+(D:\Yang\学习\文献阅读\reference/10.1086_186413.aux)
+(D:\Yang\学习\文献阅读\reference/10.1103_PhysRevD.46.1274.aux)
+(D:\Yang\学习\文献阅读\reference/10.1086_171646.aux)
+(D:\Yang\学习\文献阅读\reference/10.1086_186493.aux))
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 22.
 LaTeX Font Info:    ... okay on input line 22.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 22.
@@ -832,94 +838,124 @@ Overfull \hbox (11.08801pt too wide) in paragraph at lines 68--68
 GALAXY[][] [][]  
  []
 
+[1
+
+
+
+]
+Overfull \hbox (7.75174pt too wide) in paragraph at lines 84--84
+ [][][] [][][]\OT1/cmr/m/n/12.05 FORMATION OF VERY STRONG-LY MAG-NE-TIZED NEUTR
+ON- 
+ []
+
 )
 \tf@toc=\write4
- [1
-
-
-
-] [2]
+ [2]
 ��һ��
-[3
+[1
 
 
 ] (D:\Yang\学习\文献阅读\reference/10.1086_149707.tex
 Package CJKpunct Info: punctuation spaces for family 'zhsong' do not exist. Use
  family 'def' instead. on input line 3.
-) [4
+) [2
 
 ]
 (D:\Yang\学习\文献阅读\reference/10.1016_0375-9474(71)90281-8.tex)
-[5
+[3
 
 
-] (D:\Yang\学习\文献阅读\reference/10.1086_151897.tex) [6
+] (D:\Yang\学习\文献阅读\reference/10.1086_151897.tex) [4
 
 
 ]
 (D:\Yang\学习\文献阅读\reference/10.1016_0375-9474(73)90349-7.tex)
-[7
+[5
 
 
-] (D:\Yang\学习\文献阅读\reference/10.1086_181612.tex) [8
-
-
-]
-(D:\Yang\学习\文献阅读\reference/10.1086_157285.tex) [9
+] (D:\Yang\学习\文献阅读\reference/10.1086_181612.tex) [6
 
 
 ]
-(D:\Yang\学习\文献阅读\reference/10.1086_157498.tex) [10
+(D:\Yang\学习\文献阅读\reference/10.1086_157285.tex) [7
 
 
 ]
-(D:\Yang\学习\文献阅读\reference/10.1086_163253.tex) [11
+(D:\Yang\学习\文献阅读\reference/10.1086_157498.tex) [8
 
 
 ]
-(D:\Yang\学习\文献阅读\reference/10.1086_164405.tex) [12
+(D:\Yang\学习\文献阅读\reference/10.1086_163253.tex) [9
+
+
+]
+(D:\Yang\学习\文献阅读\reference/10.1086_164405.tex) [10
 
 
 ]
 (D:\Yang\学习\文献阅读\reference/10.1103_PhysRevLett.61.2518.tex)
-[13
+[11
 
 
-] (D:\Yang\学习\文献阅读\reference/10.1038_340126a0.tex) [14
+] (D:\Yang\学习\文献阅读\reference/10.1038_340126a0.tex) [12
 
 
 ]
-(D:\Yang\学习\文献阅读\reference/10.1103_RevModPhys.62.801.tex) [15
+(D:\Yang\学习\文献阅读\reference/10.1103_RevModPhys.62.801.tex) [13
 
 
 ]
 (D:\Yang\学习\文献阅读\reference/10.1016_0370-1573(91)90064-s.tex
+[14
+
+
+]) [15]
+(D:\Yang\学习\文献阅读\reference/10.1103_PhysRevLett.67.2414.tex)
 [16
 
 
-]) [17]
-(D:\Yang\学习\文献阅读\reference/10.1103_PhysRevLett.67.2414.tex)
-[18
-
-
 ] (D:\Yang\学习\文献阅读\reference/10.1103_PhysRevLett.66.2701.tex)
-[19
+[17
 
 
 ] (D:\Yang\学习\文献阅读\reference/10.1016_0375-9474(91)90452-c.tex)
-[20
+[18
 
 
-] (D:\Yang\学习\文献阅读\reference/10.1086_186143.tex) [21
-
-
-]
-(D:\Yang\学习\文献阅读\reference/10.1086_186163.tex) [22
+] (D:\Yang\学习\文献阅读\reference/10.1086_186143.tex) [19
 
 
 ]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 64.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 64.
+(D:\Yang\学习\文献阅读\reference/10.1086_186163.tex) [20
+
+
+]
+(D:\Yang\学习\文献阅读\reference/10.1126_science.256.5055.325.tex)
+[21
+
+
+] (D:\Yang\学习\文献阅读\reference/10.1086_171983.tex) [22
+
+
+]
+(D:\Yang\学习\文献阅读\reference/10.1086_186413.tex) [23
+
+
+]
+(D:\Yang\学习\文献阅读\reference/10.1103_PhysRevD.46.1274.tex) [24
+
+
+]
+(D:\Yang\学习\文献阅读\reference/10.1086_171646.tex) [25
+
+
+]
+(D:\Yang\学习\文献阅读\reference/10.1086_186493.tex) [26
+
+
+]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 78.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 78.
 
 (D:\Yang\学习\文献阅读\reference_reading.aux
 (D:\Yang\学习\文献阅读\reference/10.1086_149707.aux)
@@ -939,9 +975,15 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 64.
 (D:\Yang\学习\文献阅读\reference/10.1103_PhysRevLett.66.2701.aux)
 (D:\Yang\学习\文献阅读\reference/10.1016_0375-9474(91)90452-c.aux)
 (D:\Yang\学习\文献阅读\reference/10.1086_186143.aux)
-(D:\Yang\学习\文献阅读\reference/10.1086_186163.aux))
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 64.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 64.
+(D:\Yang\学习\文献阅读\reference/10.1086_186163.aux)
+(D:\Yang\学习\文献阅读\reference/10.1126_science.256.5055.325.aux)
+(D:\Yang\学习\文献阅读\reference/10.1086_171983.aux)
+(D:\Yang\学习\文献阅读\reference/10.1086_186413.aux)
+(D:\Yang\学习\文献阅读\reference/10.1103_PhysRevD.46.1274.aux)
+(D:\Yang\学习\文献阅读\reference/10.1086_171646.aux)
+(D:\Yang\学习\文献阅读\reference/10.1086_186493.aux))
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 78.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 78.
 
 
 Package rerunfilecheck Warning: File `reference_reading.out' has changed.
@@ -949,16 +991,16 @@ Package rerunfilecheck Warning: File `reference_reading.out' has changed.
 (rerunfilecheck)                or use package `bookmark'.
 
 Package rerunfilecheck Info: Checksums for `reference_reading.out':
-(rerunfilecheck)             Before: 4EC3CB862479AD88DF4A3309D0D9DFA5;10523
-(rerunfilecheck)             After:  44059C1DC0784CA3065502834C8AB857;2130.
+(rerunfilecheck)             Before: F1147ADE8EED8D2EEB11A9B367C02661;14313
+(rerunfilecheck)             After:  4C70E04654A8DB78A74AB817D4F563ED;2855.
  ) 
 Here is how much of TeX's memory you used:
- 15384 strings out of 495355
- 246585 string characters out of 3183881
- 342548 words of memory out of 3000000
- 18096 multiletter control sequences out of 15000+200000
- 37275 words of font info for 132 fonts, out of 3000000 for 9000
+ 15549 strings out of 495355
+ 251574 string characters out of 3183881
+ 349602 words of memory out of 3000000
+ 18215 multiletter control sequences out of 15000+200000
+ 38463 words of font info for 136 fonts, out of 3000000 for 9000
  14 hyphenation exceptions out of 8191
- 47i,11n,47p,1239b,898s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 47i,12n,51p,1239b,911s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on reference_reading.dvi (22 pages, 87032 bytes).
+Output written on reference_reading.dvi (28 pages, 114744 bytes).
