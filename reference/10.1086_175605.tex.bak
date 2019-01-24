@@ -1,0 +1,6 @@
+\section[Comparing Models of Rapidly Rotating Relativistic Stars Constructed by 2 Numerical-Methods]{Comparing Models of Rapidly Rotating Relativistic Stars Constructed by 2 Numerical-Methods\protect\footnote{Author: Stergioulas, N. Friedman, J. L. \\Address: NaN. \\DOI: 10.1086/175605 \\Journal: Astrophysical Journal(1995).}}
+\subsection{Abstract}
+本文第一次对建立快速旋转相对论性恒星的两种不同的数值方法的代码进行了直接比较。其中一种方法是基于Stergioulas编写的Komatsu-Eriguchi-Hachisu(KEH)方法(Komatsu et al. 1989)，另一种是由Friedman, Ipser, \& Parker 修正的 Butterworth-Ipser 代码(BI)。我们比较了两种方法得到的模型，并评估了两种代码的准确性和有效性。这种一致性出乎预料地好，并且基于BI的公布了数据的在最大频率处的误差条主要不是由代码不准确导致的，而是由用于近似连续恒星序列的模型的数量决定的。BI代码每次迭代的速度更快，并且在低密度区域收敛更快；而KEH在高密度时收敛更快；在BI代码不能收敛的区域，KEH也能收敛，让我们能够计算BI代码无法进行的一些模型在塌缩过程中的不稳定性。一个最近报告的相对较大的基于Friedman-Pandharipande状态方程的模型的差异，被发现是由于使用了两个版本的状态方程。对于两种代表性的状态方程，平衡参数的二维空间被显示为由角动量、质量和中心密度构成的三维空间中的一个面。对于给定的状态方程，我们发现具有最大质量值、重子质量和角动量的平衡模型（一般来说）要么都不稳定，要么都是稳定的。在第一种情况下，具有最大角速度的稳定模也是具有最大质量、重子质量和角动量的模型。在第二种情况下，具有这些量的最大值的稳定模型都是不同的。我们对KEH方法的实现将作为一个公共领域计划提供给感兴趣的用户。
+\subsection{Knowledge}
+
+\subsection{Questions}

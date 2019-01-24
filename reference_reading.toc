@@ -97,3 +97,107 @@
 \contentsline {subsection}{\numberline {1.24.1}Abstract}{26}{subsection.1.24.1}
 \contentsline {subsection}{\numberline {1.24.2}Knowledge}{26}{subsection.1.24.2}
 \contentsline {subsection}{\numberline {1.24.3}Questions}{26}{subsection.1.24.3}
+\contentsline {section}{\numberline {1.25}Millisecond Pulsars with Extremely Strong Magnetic-Fields as a Cosmological Source of Gamma-Ray Bursts}{27}{section.1.25}
+\contentsline {subsection}{\numberline {1.25.1}Abstract}{27}{subsection.1.25.1}
+\contentsline {subsection}{\numberline {1.25.2}Knowledge}{27}{subsection.1.25.2}
+\contentsline {subsection}{\numberline {1.25.3}Questions}{27}{subsection.1.25.3}
+\contentsline {section}{\numberline {1.26}Neutron star crusts}{28}{section.1.26}
+\contentsline {subsection}{\numberline {1.26.1}Abstract}{28}{subsection.1.26.1}
+\contentsline {subsection}{\numberline {1.26.2}Knowledge}{28}{subsection.1.26.2}
+\contentsline {subsection}{\numberline {1.26.3}Questions}{28}{subsection.1.26.3}
+\contentsline {section}{\numberline {1.27}Neutron-Star Dynamos and the Origins of Pulsar Magnetism}{29}{section.1.27}
+\contentsline {subsection}{\numberline {1.27.1}Abstract}{29}{subsection.1.27.1}
+\contentsline {subsection}{\numberline {1.27.2}Knowledge}{30}{subsection.1.27.2}
+\contentsline {subsection}{\numberline {1.27.3}Questions}{30}{subsection.1.27.3}
+\contentsline {section}{\numberline {1.28}Gamma-Ray Bursts from Stellar Mass Accretion Disks around Black-Holes}{31}{section.1.28}
+\contentsline {subsection}{\numberline {1.28.1}Abstract}{31}{subsection.1.28.1}
+\contentsline {subsection}{\numberline {1.28.2}Knowledge}{31}{subsection.1.28.2}
+\contentsline {subsection}{\numberline {1.28.3}Questions}{31}{subsection.1.28.3}
+\contentsline {section}{\numberline {1.29}Rapidly Rotating Neutron-Stars in General-Relativity: Realistic Equations of State}{32}{section.1.29}
+\contentsline {subsection}{\numberline {1.29.1}Abstract}{32}{subsection.1.29.1}
+\contentsline {subsection}{\numberline {1.29.2}Knowledge}{32}{subsection.1.29.2}
+\contentsline {subsection}{\numberline {1.29.3}Questions}{32}{subsection.1.29.3}
+\contentsline {section}{\numberline {1.30}Gravitational-Waves from Merging Compact Binaries - How Accurately Can One Extract the Binary Parameters from the Inspiral Wave-Form}{33}{section.1.30}
+\contentsline {subsection}{\numberline {1.30.1}Abstract}{33}{subsection.1.30.1}
+\contentsline {subsection}{\numberline {1.30.2}Knowledge}{33}{subsection.1.30.2}
+\contentsline {subsection}{\numberline {1.30.3}Questions}{33}{subsection.1.30.3}
+\contentsline {section}{\numberline {1.31}High Birth Velocities of Radio Pulsars}{34}{section.1.31}
+\contentsline {subsection}{\numberline {1.31.1}Abstract}{34}{subsection.1.31.1}
+\contentsline {subsection}{\numberline {1.31.2}Knowledge}{34}{subsection.1.31.2}
+\contentsline {subsection}{\numberline {1.31.3}Questions}{34}{subsection.1.31.3}
+\contentsline {section}{\numberline {1.32}The R-Process and Neutrino-Heated Supernova Ejecta}{35}{section.1.32}
+\contentsline {subsection}{\numberline {1.32.1}Abstract}{35}{subsection.1.32.1}
+\contentsline {subsection}{\numberline {1.32.2}Knowledge}{35}{subsection.1.32.2}
+\contentsline {subsection}{\numberline {1.32.3}Questions}{35}{subsection.1.32.3}
+\contentsline {section}{\numberline {1.33}On the Nature of Core-Collapse Supernova Explosions}{36}{section.1.33}
+\contentsline {subsection}{\numberline {1.33.1}Abstract}{36}{subsection.1.33.1}
+\contentsline {subsection}{\numberline {1.33.2}Knowledge}{37}{subsection.1.33.2}
+\contentsline {subsection}{\numberline {1.33.3}Questions}{37}{subsection.1.33.3}
+\contentsline {section}{\numberline {1.34}Comparing Models of Rapidly Rotating Relativistic Stars Constructed by 2 Numerical-Methods}{38}{section.1.34}
+\contentsline {subsection}{\numberline {1.34.1}Abstract}{38}{subsection.1.34.1}
+\contentsline {subsection}{\numberline {1.34.2}Knowledge}{38}{subsection.1.34.2}
+\contentsline {subsection}{\numberline {1.34.3}Questions}{38}{subsection.1.34.3}
+\contentsline {section}{\numberline {1.35}The Soft Gamma-Repeaters as Very Strongly Magnetized Neutron-Stars .1. Radiative Mechanism for Outbursts}{39}{section.1.35}
+\contentsline {subsection}{\numberline {1.35.1}Abstract}{39}{subsection.1.35.1}
+\contentsline {subsection}{\numberline {1.35.2}Knowledge}{39}{subsection.1.35.2}
+\contentsline {subsection}{\numberline {1.35.3}Questions}{39}{subsection.1.35.3}
+\contentsline {section}{\numberline {1.36}Nucleosynthesis in neutrino-driven winds .1. The physical conditions}{40}{section.1.36}
+\contentsline {subsection}{\numberline {1.36.1}Abstract}{40}{subsection.1.36.1}
+\contentsline {subsection}{\numberline {1.36.2}Knowledge}{40}{subsection.1.36.2}
+\contentsline {subsection}{\numberline {1.36.3}Questions}{40}{subsection.1.36.3}
+\contentsline {section}{\numberline {1.37}Hyperon-rich matter in neutron stars}{41}{section.1.37}
+\contentsline {subsection}{\numberline {1.37.1}Abstract}{41}{subsection.1.37.1}
+\contentsline {subsection}{\numberline {1.37.2}Knowledge}{41}{subsection.1.37.2}
+\contentsline {subsection}{\numberline {1.37.3}Questions}{41}{subsection.1.37.3}
+\contentsline {section}{\numberline {1.38}The ultra-metal-poor, neutron-capture-rich giant star CS 22892-052}{42}{section.1.38}
+\contentsline {subsection}{\numberline {1.38.1}Abstract}{42}{subsection.1.38.1}
+\contentsline {subsection}{\numberline {1.38.2}Knowledge}{42}{subsection.1.38.2}
+\contentsline {subsection}{\numberline {1.38.3}Questions}{42}{subsection.1.38.3}
+\contentsline {section}{\numberline {1.39}Millisecond X-ray variability from an accreting neutron star system}{43}{section.1.39}
+\contentsline {subsection}{\numberline {1.39.1}Abstract}{43}{subsection.1.39.1}
+\contentsline {subsection}{\numberline {1.39.2}Knowledge}{43}{subsection.1.39.2}
+\contentsline {subsection}{\numberline {1.39.3}Questions}{43}{subsection.1.39.3}
+\contentsline {section}{\numberline {1.40}The soft gamma repeaters as very strongly magnetized neutron stars .2. Quiescent neutrino, X-ray, and Alfven wave emission}{44}{section.1.40}
+\contentsline {subsection}{\numberline {1.40.1}Abstract}{44}{subsection.1.40.1}
+\contentsline {subsection}{\numberline {1.40.2}Knowledge}{44}{subsection.1.40.2}
+\contentsline {subsection}{\numberline {1.40.3}Questions}{44}{subsection.1.40.3}
+\contentsline {section}{\numberline {1.41}Model neutron star atmospheres with low magnetic fields .1. Atmospheres in radiative equilibrium}{45}{section.1.41}
+\contentsline {subsection}{\numberline {1.41.1}Abstract}{45}{subsection.1.41.1}
+\contentsline {subsection}{\numberline {1.41.2}Knowledge}{45}{subsection.1.41.2}
+\contentsline {subsection}{\numberline {1.41.3}Questions}{45}{subsection.1.41.3}
+\contentsline {section}{\numberline {1.42}The X-ray luminosity of rotation-powered neutron stars}{46}{section.1.42}
+\contentsline {subsection}{\numberline {1.42.1}Abstract}{46}{subsection.1.42.1}
+\contentsline {subsection}{\numberline {1.42.2}Knowledge}{46}{subsection.1.42.2}
+\contentsline {subsection}{\numberline {1.42.3}Questions}{46}{subsection.1.42.3}
+\contentsline {section}{\numberline {1.43}Observations of accreting pulsars}{47}{section.1.43}
+\contentsline {subsection}{\numberline {1.43.1}Abstract}{47}{subsection.1.43.1}
+\contentsline {subsection}{\numberline {1.43.2}Knowledge}{47}{subsection.1.43.2}
+\contentsline {subsection}{\numberline {1.43.3}Questions}{47}{subsection.1.43.3}
+\contentsline {section}{\numberline {1.44}A Skyrme parametrization from subnuclear to neutron star densities}{48}{section.1.44}
+\contentsline {subsection}{\numberline {1.44.1}Abstract}{48}{subsection.1.44.1}
+\contentsline {subsection}{\numberline {1.44.2}Knowledge}{48}{subsection.1.44.2}
+\contentsline {subsection}{\numberline {1.44.3}Questions}{48}{subsection.1.44.3}
+\contentsline {section}{\numberline {1.45}Composition and structure of protoneutron stars}{49}{section.1.45}
+\contentsline {subsection}{\numberline {1.45.1}Abstract}{49}{subsection.1.45.1}
+\contentsline {subsection}{\numberline {1.45.2}Knowledge}{49}{subsection.1.45.2}
+\contentsline {subsection}{\numberline {1.45.3}Questions}{49}{subsection.1.45.3}
+\contentsline {section}{\numberline {1.46}Equation of state of nucleon matter and neutron star structure}{50}{section.1.46}
+\contentsline {subsection}{\numberline {1.46.1}Abstract}{50}{subsection.1.46.1}
+\contentsline {subsection}{\numberline {1.46.2}Knowledge}{50}{subsection.1.46.2}
+\contentsline {subsection}{\numberline {1.46.3}Questions}{50}{subsection.1.46.3}
+\contentsline {section}{\numberline {1.47}A new class of unstable modes of rotating relativistic stars}{51}{section.1.47}
+\contentsline {subsection}{\numberline {1.47.1}Abstract}{51}{subsection.1.47.1}
+\contentsline {subsection}{\numberline {1.47.2}Knowledge}{51}{subsection.1.47.2}
+\contentsline {subsection}{\numberline {1.47.3}Questions}{51}{subsection.1.47.3}
+\contentsline {section}{\numberline {1.48}Gravitational radiation and rotation of accreting neutron stars}{52}{section.1.48}
+\contentsline {subsection}{\numberline {1.48.1}Abstract}{52}{subsection.1.48.1}
+\contentsline {subsection}{\numberline {1.48.2}Knowledge}{52}{subsection.1.48.2}
+\contentsline {subsection}{\numberline {1.48.3}Questions}{52}{subsection.1.48.3}
+\contentsline {section}{\numberline {1.49}Crustal heating and quiescent emission from transiently accreting neutron stars}{53}{section.1.49}
+\contentsline {subsection}{\numberline {1.49.1}Abstract}{53}{subsection.1.49.1}
+\contentsline {subsection}{\numberline {1.49.2}Knowledge}{53}{subsection.1.49.2}
+\contentsline {subsection}{\numberline {1.49.3}Questions}{53}{subsection.1.49.3}
+\contentsline {section}{\numberline {1.50}Axial instability of rotating relativistic stars}{54}{section.1.50}
+\contentsline {subsection}{\numberline {1.50.1}Abstract}{54}{subsection.1.50.1}
+\contentsline {subsection}{\numberline {1.50.2}Knowledge}{54}{subsection.1.50.2}
+\contentsline {subsection}{\numberline {1.50.3}Questions}{54}{subsection.1.50.3}
