@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=latex 2018.10.13)  8 FEB 2019 13:58
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=latex 2018.10.13)  12 FEB 2019 21:40
 entering extended mode
 **reference_reading.tex
 (D:\Yang\学习\文献阅读\reference_reading.tex
@@ -712,7 +712,24 @@ LaTeX Warning: Command \@footnotemark  has changed.
 (D:\Yang\学习\文献阅读\reference/10.1126_science.1090720.aux)
 (D:\Yang\学习\文献阅读\reference/10.1126_science.1094645.aux)
 (D:\Yang\学习\文献阅读\reference/10.1086_424844.aux)
-(D:\Yang\学习\文献阅读\reference/10.1086_380507.aux))
+(D:\Yang\学习\文献阅读\reference/10.1086_380507.aux)
+(D:\Yang\学习\文献阅读\reference/10.1146_annurev.astro.42.053102.134013.a
+ux) (D:\Yang\学习\文献阅读\reference/10.1111_j.1365-2966.2005.09087_x.aux
+) (D:\Yang\学习\文献阅读\reference/10.1016_j.physrep.2005.02.004.aux)
+(D:\Yang\学习\文献阅读\reference/10.1088_0034_4885_69_9_R03.aux)
+(D:\Yang\学习\文献阅读\reference/10.1126_science.1123430.aux)
+(D:\Yang\学习\文献阅读\reference/10.1086_507518.aux)
+(D:\Yang\学习\文献阅读\reference/10.1016_j.physrep.2007.02.003.aux)
+(D:\Yang\学习\文献阅读\reference/10.1016_j.physrep.2007.02.005.aux)
+(D:\Yang\学习\文献阅读\reference/10.1086_592044.aux)
+(D:\Yang\学习\文献阅读\reference/10.1016_j.physrep.2008.04.005.aux)
+(D:\Yang\学习\文献阅读\reference/10.1007_s00159-008-0011-z.aux)
+(D:\Yang\学习\文献阅读\reference/10.1146_annurev.astro.46.060407.145207.a
+ux) (D:\Yang\学习\文献阅读\reference/10.1038_nature09466.aux)
+(D:\Yang\学习\文献阅读\reference/10.1111_j.1365-2966.2010.16864.x.aux)
+(D:\Yang\学习\文献阅读\reference/10.1088_0004-637x_722_1_33.aux)
+(D:\Yang\学习\文献阅读\reference/10.1146_annurev-nucl-102711-095018.aux)
+(D:\Yang\学习\文献阅读\reference/10.1038_nature12505.aux))
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 22.
 LaTeX Font Info:    ... okay on input line 22.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 22.
@@ -885,15 +902,9 @@ LaTeX Font Info:    Try loading font information for U+msb on input line 2.
 (C:\CTEX\MiKTeX\tex\latex\amsfonts\umsb.fd
 File: umsb.fd 2009/06/22 v3.00 AMS symbols B
 )
-Overfull \hbox (12.08766pt too wide) in paragraph at lines 44--44
- [][][] [][][]\OT1/cmr/m/n/12.05 NUCLEOSYNTHESIS, NEU-TRI-NO BURST-S AND GAMMA-
-RAYS 
- []
-
-
-Overfull \hbox (11.08801pt too wide) in paragraph at lines 68--68
- [][][] [][][]\OT1/cmr/m/n/12.05 NEUTRON-STAR AND BLACK-HOLE BI-NA-RIES IN THE 
-GALAXY[][] [][]  
+Overfull \hbox (5.88443pt too wide) in paragraph at lines 28--28
+ [][][] [][][]\OT1/cmr/m/n/12.05 Accretion by Ro-tat-ing Mag-net-ic Neu-tron S-
+tars .3. Ac-cre-tion Torques 
  []
 
 [1
@@ -901,9 +912,9 @@ GALAXY[][] [][]
 
 
 ]
-Overfull \hbox (7.75174pt too wide) in paragraph at lines 84--84
- [][][] [][][]\OT1/cmr/m/n/12.05 FORMATION OF VERY STRONG-LY MAG-NE-TIZED NEUTR
-ON- 
+Overfull \hbox (3.9086pt too wide) in paragraph at lines 88--88
+ [][][] [][][]\OT1/cmr/m/n/12.05 1st-Order Phase-Transitions with More Than One
+ Con-served Charge 
  []
 
 
@@ -918,14 +929,20 @@ Overfull \hbox (2.37027pt too wide) in paragraph at lines 208--208
 ic field in the soft gamma- 
  []
 
-[3])
+[3] [4]
+Overfull \hbox (7.09396pt too wide) in paragraph at lines 372--372
+ [][][] [][][]\OT1/cmr/m/n/12.05 The strongest cos-mic mag-net-s: soft gamma-ra
+y re-peater-s and anoma- 
+ []
+
+)
 \tf@toc=\write4
- [4]
+ [5] [6
+
+
+]
 ��һ��
-[1
-
-
-] (D:\Yang\学习\文献阅读\reference/10.1086_149707.tex
+[1] (D:\Yang\学习\文献阅读\reference/10.1086_149707.tex
 Package CJKpunct Info: punctuation spaces for family 'zhsong' do not exist. Use
  family 'def' instead. on input line 3.
 ) [2
@@ -1261,8 +1278,80 @@ File: ueuf.fd 2009/06/22 v3.00 Euler Fraktur
 
 
 ]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 194.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 194.
+(D:\Yang\学习\文献阅读\reference/10.1146_annurev.astro.42.053102.134013.t
+ex) [87
+
+
+]
+(D:\Yang\学习\文献阅读\reference/10.1111_j.1365-2966.2005.09087_x.tex)
+[88
+
+
+] (D:\Yang\学习\文献阅读\reference/10.1016_j.physrep.2005.02.004.tex)
+[89
+
+
+] (D:\Yang\学习\文献阅读\reference/10.1088_0034_4885_69_9_R03.tex)
+[90
+
+
+] (D:\Yang\学习\文献阅读\reference/10.1126_science.1123430.tex)
+[91
+
+
+] (D:\Yang\学习\文献阅读\reference/10.1086_507518.tex) [92
+
+
+]
+(D:\Yang\学习\文献阅读\reference/10.1016_j.physrep.2007.02.003.tex)
+[93
+
+
+] (D:\Yang\学习\文献阅读\reference/10.1016_j.physrep.2007.02.005.tex)
+[94
+
+
+] (D:\Yang\学习\文献阅读\reference/10.1086_592044.tex) [95
+
+
+]
+(D:\Yang\学习\文献阅读\reference/10.1016_j.physrep.2008.04.005.tex)
+[96
+
+
+] (D:\Yang\学习\文献阅读\reference/10.1007_s00159-008-0011-z.tex)
+[97
+
+
+]
+(D:\Yang\学习\文献阅读\reference/10.1146_annurev.astro.46.060407.145207.t
+ex) [98
+
+
+] (D:\Yang\学习\文献阅读\reference/10.1038_nature09466.tex)
+[99
+
+
+]
+(D:\Yang\学习\文献阅读\reference/10.1111_j.1365-2966.2010.16864.x.tex)
+[100
+
+
+] (D:\Yang\学习\文献阅读\reference/10.1088_0004-637x_722_1_33.tex)
+[101
+
+
+]
+(D:\Yang\学习\文献阅读\reference/10.1146_annurev-nucl-102711-095018.tex)
+[102
+
+
+] (D:\Yang\学习\文献阅读\reference/10.1038_nature12505.tex) [103
+
+
+]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 228.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 228.
 
 (D:\Yang\学习\文献阅读\reference_reading.aux
 (D:\Yang\学习\文献阅读\reference/10.1086_149707.aux)
@@ -1346,9 +1435,26 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 194.
 (D:\Yang\学习\文献阅读\reference/10.1126_science.1090720.aux)
 (D:\Yang\学习\文献阅读\reference/10.1126_science.1094645.aux)
 (D:\Yang\学习\文献阅读\reference/10.1086_424844.aux)
-(D:\Yang\学习\文献阅读\reference/10.1086_380507.aux))
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 194.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 194.
+(D:\Yang\学习\文献阅读\reference/10.1086_380507.aux)
+(D:\Yang\学习\文献阅读\reference/10.1146_annurev.astro.42.053102.134013.a
+ux) (D:\Yang\学习\文献阅读\reference/10.1111_j.1365-2966.2005.09087_x.aux
+) (D:\Yang\学习\文献阅读\reference/10.1016_j.physrep.2005.02.004.aux)
+(D:\Yang\学习\文献阅读\reference/10.1088_0034_4885_69_9_R03.aux)
+(D:\Yang\学习\文献阅读\reference/10.1126_science.1123430.aux)
+(D:\Yang\学习\文献阅读\reference/10.1086_507518.aux)
+(D:\Yang\学习\文献阅读\reference/10.1016_j.physrep.2007.02.003.aux)
+(D:\Yang\学习\文献阅读\reference/10.1016_j.physrep.2007.02.005.aux)
+(D:\Yang\学习\文献阅读\reference/10.1086_592044.aux)
+(D:\Yang\学习\文献阅读\reference/10.1016_j.physrep.2008.04.005.aux)
+(D:\Yang\学习\文献阅读\reference/10.1007_s00159-008-0011-z.aux)
+(D:\Yang\学习\文献阅读\reference/10.1146_annurev.astro.46.060407.145207.a
+ux) (D:\Yang\学习\文献阅读\reference/10.1038_nature09466.aux)
+(D:\Yang\学习\文献阅读\reference/10.1111_j.1365-2966.2010.16864.x.aux)
+(D:\Yang\学习\文献阅读\reference/10.1088_0004-637x_722_1_33.aux)
+(D:\Yang\学习\文献阅读\reference/10.1146_annurev-nucl-102711-095018.aux)
+(D:\Yang\学习\文献阅读\reference/10.1038_nature12505.aux))
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 228.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 228.
 
 
 Package rerunfilecheck Warning: File `reference_reading.out' has changed.
@@ -1356,16 +1462,16 @@ Package rerunfilecheck Warning: File `reference_reading.out' has changed.
 (rerunfilecheck)                or use package `bookmark'.
 
 Package rerunfilecheck Info: Checksums for `reference_reading.out':
-(rerunfilecheck)             Before: FDF33C43CFDD89539CFF726769FA9DE7;52747
-(rerunfilecheck)             After:  1AF9CAE59B2AD0B73B8CE010A3E71A23;10092.
+(rerunfilecheck)             Before: ACD31B4A6830E8F8F71C63ACF5AB4D23;62630
+(rerunfilecheck)             After:  FACA09618F36DC940841EC16627631DC;12043.
  ) 
 Here is how much of TeX's memory you used:
- 16502 strings out of 495355
- 287849 string characters out of 3183881
- 421950 words of memory out of 3000000
- 18754 multiletter control sequences out of 15000+200000
+ 16727 strings out of 495355
+ 299210 string characters out of 3183881
+ 440899 words of memory out of 3000000
+ 18860 multiletter control sequences out of 15000+200000
  41367 words of font info for 147 fonts, out of 3000000 for 9000
  14 hyphenation exceptions out of 8191
- 47i,12n,51p,1805b,1032s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 47i,12n,51p,1805b,1067s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on reference_reading.dvi (90 pages, 365908 bytes).
+Output written on reference_reading.dvi (109 pages, 443092 bytes).

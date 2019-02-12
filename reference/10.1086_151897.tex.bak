@@ -1,0 +1,11 @@
+\section[NEUTRON STAR ACCRETION IN A STELLAR WIND MODEL FOR A PULSED X-RAY SOURCE]{NEUTRON STAR ACCRETION IN A STELLAR WIND MODEL FOR A PULSED X-RAY
+SOURCE\protect\footnote{Author: Davidson K. Ostriker J. P. \\Address: Princeton University Observatory. \\DOI:10.1086/151897 \\Journal: Astrophysical Journal(1973).}}
+\subsection{Abstract}
+X射线脉冲源Cen X-3 和Her X-1 的 许多特征都可以用一个简单的模型来解释。一个旋转的磁化中子星绕着一个质量稍大的恒星转动，并且从这个恒星发出的恒星风中吸积质量。通过潮汐瓦解问题的分析表明，X射线源的周期、速度振幅、掩蚀的持续时间允许中子星的质量达到1$M_{\odot}$，轨道的倾角为$70^\circ-90^\circ$，并且要求X射线脉冲源Cen X-3 和Her X-1 的伴星的距离(separations)、质量、半径以及光谱型分别接近于$(18R_\odot,8R_\odot)$、$(20M_\odot,2M_\odot)$、$(12R_\odot,4R_\odot)$以及(B2III,F5III)。
+
+在任何事例(any case)中，吸积率都被限制小于$10^{-7.4}M_\odot$每年。通过爱丁顿极限(Eddington limit)，计算可以得到吸积率为$10^{-9}M_\odot$每年，比要求的中等质量恒星的恒星风小3个数量级。
+
+下落气体与中子星磁层(magnetosphere)的相互作用导致其自传周期接近于一个平衡值，当表面磁场强度为$10^{12}$gauss时，这个值在秒的数量级上。来自于每个磁极附近确定区域内的X射线光谱也由系统参数确定。应用于Cen X-1的理论(计算结果)也与$10^{12}$gauss的表面磁场强度以及$10^{36.5}\textrm{ergs/s}$的X射线光度一致。
+\subsection{Knowledge}
+
+\subsection{Questions}
