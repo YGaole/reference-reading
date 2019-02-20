@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=latex 2018.10.13)  12 FEB 2019 21:40
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=latex 2018.10.13)  20 FEB 2019 21:55
 entering extended mode
 **reference_reading.tex
 (D:\Yang\学习\文献阅读\reference_reading.tex
@@ -606,6 +606,7 @@ Package: chngcntr 2009/09/02 v1.0a change counter resetting
 )
 \c@principle=\count280
 \c@definition=\count281
+\c@key=\count282
 
 (C:\CTEX\MiKTeX\tex\latex\koma-script\scrextend.sty
 Package: scrextend 2012/03/08 v3.10a KOMA-Script KOMA-Script package (extend ot
@@ -730,88 +731,88 @@ ux) (D:\Yang\学习\文献阅读\reference/10.1038_nature09466.aux)
 (D:\Yang\学习\文献阅读\reference/10.1088_0004-637x_722_1_33.aux)
 (D:\Yang\学习\文献阅读\reference/10.1146_annurev-nucl-102711-095018.aux)
 (D:\Yang\学习\文献阅读\reference/10.1038_nature12505.aux))
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for C00/song/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for C05/song/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for C09/song/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for C10/song/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for C20/song/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for C19/song/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for C40/song/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for C42/song/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for C43/song/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for C50/song/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for C52/song/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for C49/song/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for C60/mj/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for C61/mj/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for C63/mj/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for C64/mj/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for C65/mj/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for C70/song/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for C31/song/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for C32/song/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for C33/song/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for C34/song/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for C35/song/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for C36/song/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for C37/song/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for C80/song/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for C81/song/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for C01/song/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for C11/song/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for C21/song/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for C41/song/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for C62/song/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for C00/song/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for C05/song/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for C09/song/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for C10/song/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for C20/song/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for C19/song/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for C40/song/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for C42/song/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for C43/song/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for C50/song/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for C52/song/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for C49/song/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for C60/mj/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for C61/mj/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for C63/mj/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for C64/mj/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for C65/mj/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for C70/song/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for C31/song/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for C32/song/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for C33/song/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for C34/song/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for C35/song/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for C36/song/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for C37/song/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for C80/song/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for C81/song/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for C01/song/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for C11/song/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for C21/song/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for C41/song/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for C62/song/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
 \AtBeginShipoutBox=\box45
-Package hyperref Info: Link coloring ON on input line 22.
+Package hyperref Info: Link coloring ON on input line 23.
 
 (C:\CTEX\MiKTeX\tex\latex\hyperref\nameref.sty
 Package: nameref 2010/04/30 v2.40 Cross-referencing by name of section
@@ -819,11 +820,11 @@ Package: nameref 2010/04/30 v2.40 Cross-referencing by name of section
 (C:\CTEX\MiKTeX\tex\generic\oberdiek\gettitlestring.sty
 Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
-\c@section@level=\count282
+\c@section@level=\count283
 )
-LaTeX Info: Redefining \ref on input line 22.
-LaTeX Info: Redefining \pageref on input line 22.
-LaTeX Info: Redefining \nameref on input line 22.
+LaTeX Info: Redefining \ref on input line 23.
+LaTeX Info: Redefining \pageref on input line 23.
+LaTeX Info: Redefining \nameref on input line 23.
 
 (D:\Yang\学习\文献阅读\reference_reading.out)
 (D:\Yang\学习\文献阅读\reference_reading.out)
@@ -874,14 +875,14 @@ File: extended.chr 2008/12/29 4.8.2
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                \hskip 12.05pt
-(hyperref)                replaced by space on input line 26.
+(hyperref)                replaced by space on input line 27.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                \hskip 12.05pt
-(hyperref)                replaced by space on input line 26.
+(hyperref)                replaced by space on input line 27.
 
-LaTeX Font Info:    Try loading font information for C19+zhhei on input line 26
+LaTeX Font Info:    Try loading font information for C19+zhhei on input line 27
 .
 (C:\CTEX\MiKTeX\tex\latex\zhmetrics\c19zhhei.fd
 File: c19zhhei.fd 2009/09/23 4.8.2
@@ -945,6 +946,8 @@ y re-peater-s and anoma-
 [1] (D:\Yang\学习\文献阅读\reference/10.1086_149707.tex
 Package CJKpunct Info: punctuation spaces for family 'zhsong' do not exist. Use
  family 'def' instead. on input line 3.
+Package CJKpunct Info: punctuation spaces for family 'zhhei' do not exist. Use 
+family 'def' instead. on input line 6.
 ) [2
 
 ]
@@ -1086,272 +1089,272 @@ File: ueuf.fd 2009/06/22 v3.00 Euler Fraktur
 
 
 ]
-(D:\Yang\学习\文献阅读\reference/10.1093_mnras_275.2.255.tex) [39
+(D:\Yang\学习\文献阅读\reference/10.1093_mnras_275.2.255.tex [39
+
+
+])
+[40] (D:\Yang\学习\文献阅读\reference/10.1086_177973.tex) [41
 
 
 ]
-(D:\Yang\学习\文献阅读\reference/10.1086_177973.tex) [40
+(D:\Yang\学习\文献阅读\reference/10.1103_PhysRevC.53.1416.tex) [42
 
 
 ]
-(D:\Yang\学习\文献阅读\reference/10.1103_PhysRevC.53.1416.tex) [41
+(D:\Yang\学习\文献阅读\reference/10.1086_177656.tex) [43
 
 
 ]
-(D:\Yang\学习\文献阅读\reference/10.1086_177656.tex) [42
+(D:\Yang\学习\文献阅读\reference/10.1086_310261.tex) [44
 
 
 ]
-(D:\Yang\学习\文献阅读\reference/10.1086_310261.tex) [43
+(D:\Yang\学习\文献阅读\reference/10.1086_178147.tex) [45
 
 
 ]
-(D:\Yang\学习\文献阅读\reference/10.1086_178147.tex) [44
+(D:\Yang\学习\文献阅读\reference/ISSN_0004-6361.tex) [46
 
 
 ]
-(D:\Yang\学习\文献阅读\reference/ISSN_0004-6361.tex) [45
+(D:\Yang\学习\文献阅读\reference/ISSN_0004-6361(1997).tex) [47
 
 
 ]
-(D:\Yang\学习\文献阅读\reference/ISSN_0004-6361(1997).tex) [46
-
-
-]
-(D:\Yang\学习\文献阅读\reference/10.1086_313060.tex) [47
+(D:\Yang\学习\文献阅读\reference/10.1086_313060.tex) [48
 
 
 ]
 (D:\Yang\学习\文献阅读\reference/10.1016_s0375-9474(97)00596-4.tex)
-[48
-
-
-] (D:\Yang\学习\文献阅读\reference/10.1016_s0370-1573(96)00023-3.tex)
 [49
 
 
-] (D:\Yang\学习\文献阅读\reference/10.1103_PhysRevC.58.1804.tex)
+] (D:\Yang\学习\文献阅读\reference/10.1016_s0370-1573(96)00023-3.tex)
 [50
 
 
-] (D:\Yang\学习\文献阅读\reference/10.1086_305919.tex) [51
+] (D:\Yang\学习\文献阅读\reference/10.1103_PhysRevC.58.1804.tex)
+[51
+
+
+] (D:\Yang\学习\文献阅读\reference/10.1086_305919.tex) [52
 
 
 ]
-(D:\Yang\学习\文献阅读\reference/10.1086_311440.tex) [52
+(D:\Yang\学习\文献阅读\reference/10.1086_311440.tex) [53
 
 
 ]
-(D:\Yang\学习\文献阅读\reference/10.1086_311578.tex) [53
+(D:\Yang\学习\文献阅读\reference/10.1086_311578.tex) [54
 
 
 ]
-(D:\Yang\学习\文献阅读\reference/10.1086_305920.tex) [54
+(D:\Yang\学习\文献阅读\reference/10.1086_305920.tex) [55
 
 
 ]
-(D:\Yang\学习\文献阅读\reference/10.1086_305437.tex) [55
+(D:\Yang\学习\文献阅读\reference/10.1086_305437.tex [56
+
+
+]) [57]
+(D:\Yang\学习\文献阅读\reference/10.1038_30410.tex) [58
 
 
 ]
-(D:\Yang\学习\文献阅读\reference/10.1038_30410.tex) [56
-
-
-]
-(D:\Yang\学习\文献阅读\reference/10.1086_311680.tex) [57
+(D:\Yang\学习\文献阅读\reference/10.1086_311680.tex) [59
 
 
 ]
 (D:\Yang\学习\文献阅读\reference/10.1103_PhysRevLett.80.4843.tex)
-[58
+[60
 
 
-] (D:\Yang\学习\文献阅读\reference/10.1086_306408.tex) [59
+] (D:\Yang\学习\文献阅读\reference/10.1086_306408.tex) [61
 
 
 ]
 (D:\Yang\学习\文献阅读\reference/10.1016_s0375-9474(98)00236-x.tex)
-[60
+[62
 
 
-] (D:\Yang\学习\文献阅读\reference/Issue_6691.tex) [61
-
-
-]
-(D:\Yang\学习\文献阅读\reference/10.1086_307938.tex) [62
+] (D:\Yang\学习\文献阅读\reference/Issue_6691.tex) [63
 
 
 ]
-(D:\Yang\学习\文献阅读\reference/10.1146_annurev.astro.37.1.239.tex)
-[63
-
-
-] (D:\Yang\学习\文献阅读\reference/10.1086_312343.tex) [64
+(D:\Yang\学习\文献阅读\reference/10.1086_307938.tex) [64
 
 
 ]
-(D:\Yang\学习\文献阅读\reference/10.1086_311813.tex) [65
+(D:\Yang\学习\文献阅读\reference/10.1146_annurev.astro.37.1.239.tex
+[65
+
+
+]) [66] (D:\Yang\学习\文献阅读\reference/10.1086_312343.tex) [67
 
 
 ]
-(D:\Yang\学习\文献阅读\reference/10.1086_307790.tex) [66
+(D:\Yang\学习\文献阅读\reference/10.1086_311813.tex) [68
 
 
 ]
-(D:\Yang\学习\文献阅读\reference/10.1086_306889.tex) [67
+(D:\Yang\学习\文献阅读\reference/10.1086_307790.tex [69
+
+
+]) [70]
+(D:\Yang\学习\文献阅读\reference/10.1086_306889.tex) [71
 
 
 ]
-(D:\Yang\学习\文献阅读\reference/10.1086_306742.tex) [68
+(D:\Yang\学习\文献阅读\reference/10.1086_306742.tex) [72
 
 
 ]
-(D:\Yang\学习\文献阅读\reference/10.1086_317172.tex) [69
+(D:\Yang\学习\文献阅读\reference/10.1086_317172.tex) [73
 
 
 ]
-(D:\Yang\学习\文献阅读\reference/10.1051_0004-6361_20011402.tex) [70
+(D:\Yang\学习\文献阅读\reference/10.1051_0004-6361_20011402.tex) [74
 
 
 ]
 (D:\Yang\学习\文献阅读\reference/10.1103_PhysRevLett.86.5647.tex)
-[71
+[75
 
 
-] (D:\Yang\学习\文献阅读\reference/10.1086_319702.tex) [72
+] (D:\Yang\学习\文献阅读\reference/10.1086_319702.tex) [76
 
 
 ]
 (D:\Yang\学习\文献阅读\reference/10.1016_s0370-1573(00)00131-9.tex)
-[73
+[77
 
 
-] (D:\Yang\学习\文献阅读\reference/10.1086_338805.tex) [74
-
-
-]
-(D:\Yang\学习\文献阅读\reference/10.1086_340304.tex) [75
+] (D:\Yang\学习\文献阅读\reference/10.1086_338805.tex) [78
 
 
 ]
-(D:\Yang\学习\文献阅读\reference/10.1038_nature01159.tex) [76
+(D:\Yang\学习\文献阅读\reference/10.1086_340304.tex) [79
 
 
 ]
-(D:\Yang\学习\文献阅读\reference/10.1126_science.1078070.tex) [77
+(D:\Yang\学习\文献阅读\reference/10.1038_nature01159.tex) [80
 
 
 ]
-(D:\Yang\学习\文献阅读\reference/10.1086_340586.tex) [78
+(D:\Yang\学习\文献阅读\reference/10.1126_science.1078070.tex) [81
 
 
 ]
-(D:\Yang\学习\文献阅读\reference/10.1103_RevModPhys.74.1015.tex) [79
+(D:\Yang\学习\文献阅读\reference/10.1086_340586.tex) [82
 
 
 ]
-(D:\Yang\学习\文献阅读\reference/10.1038_nature02124.tex) [80
+(D:\Yang\学习\文献阅读\reference/10.1103_RevModPhys.74.1015.tex) [83
 
 
 ]
-(D:\Yang\学习\文献阅读\reference/10.1038_nature01732.tex) [81
+(D:\Yang\学习\文献阅读\reference/10.1038_nature02124.tex) [84
 
 
 ]
-(D:\Yang\学习\文献阅读\reference/10.1086_375491.tex) [82
+(D:\Yang\学习\文献阅读\reference/10.1038_nature01732.tex) [85
 
 
 ]
-(D:\Yang\学习\文献阅读\reference/10.1126_science.1090720.tex) [83
+(D:\Yang\学习\文献阅读\reference/10.1086_375491.tex) [86
 
 
 ]
-(D:\Yang\学习\文献阅读\reference/10.1126_science.1094645.tex) [84
+(D:\Yang\学习\文献阅读\reference/10.1126_science.1090720.tex) [87
 
 
 ]
-(D:\Yang\学习\文献阅读\reference/10.1086_424844.tex) [85
+(D:\Yang\学习\文献阅读\reference/10.1126_science.1094645.tex) [88
 
 
 ]
-(D:\Yang\学习\文献阅读\reference/10.1086_380507.tex) [86
+(D:\Yang\学习\文献阅读\reference/10.1086_424844.tex) [89
+
+
+]
+(D:\Yang\学习\文献阅读\reference/10.1086_380507.tex) [90
 
 
 ]
 (D:\Yang\学习\文献阅读\reference/10.1146_annurev.astro.42.053102.134013.t
-ex) [87
+ex) [91
 
 
 ]
 (D:\Yang\学习\文献阅读\reference/10.1111_j.1365-2966.2005.09087_x.tex)
-[88
+[92
 
 
 ] (D:\Yang\学习\文献阅读\reference/10.1016_j.physrep.2005.02.004.tex)
-[89
+[93
 
 
 ] (D:\Yang\学习\文献阅读\reference/10.1088_0034_4885_69_9_R03.tex)
-[90
+[94
 
 
 ] (D:\Yang\学习\文献阅读\reference/10.1126_science.1123430.tex)
-[91
+[95
 
 
-] (D:\Yang\学习\文献阅读\reference/10.1086_507518.tex) [92
+] (D:\Yang\学习\文献阅读\reference/10.1086_507518.tex) [96
 
 
 ]
 (D:\Yang\学习\文献阅读\reference/10.1016_j.physrep.2007.02.003.tex)
-[93
+[97
 
 
 ] (D:\Yang\学习\文献阅读\reference/10.1016_j.physrep.2007.02.005.tex)
-[94
+[98
 
 
-] (D:\Yang\学习\文献阅读\reference/10.1086_592044.tex) [95
+] (D:\Yang\学习\文献阅读\reference/10.1086_592044.tex) [99
 
 
 ]
 (D:\Yang\学习\文献阅读\reference/10.1016_j.physrep.2008.04.005.tex)
-[96
-
-
-] (D:\Yang\学习\文献阅读\reference/10.1007_s00159-008-0011-z.tex)
-[97
-
-
-]
-(D:\Yang\学习\文献阅读\reference/10.1146_annurev.astro.46.060407.145207.t
-ex) [98
-
-
-] (D:\Yang\学习\文献阅读\reference/10.1038_nature09466.tex)
-[99
-
-
-]
-(D:\Yang\学习\文献阅读\reference/10.1111_j.1365-2966.2010.16864.x.tex)
 [100
 
 
-] (D:\Yang\学习\文献阅读\reference/10.1088_0004-637x_722_1_33.tex)
+] (D:\Yang\学习\文献阅读\reference/10.1007_s00159-008-0011-z.tex)
 [101
 
 
 ]
-(D:\Yang\学习\文献阅读\reference/10.1146_annurev-nucl-102711-095018.tex)
-[102
+(D:\Yang\学习\文献阅读\reference/10.1146_annurev.astro.46.060407.145207.t
+ex) [102
 
 
-] (D:\Yang\学习\文献阅读\reference/10.1038_nature12505.tex) [103
+] (D:\Yang\学习\文献阅读\reference/10.1038_nature09466.tex)
+[103
 
 
 ]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 228.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 228.
+(D:\Yang\学习\文献阅读\reference/10.1111_j.1365-2966.2010.16864.x.tex)
+[104
+
+
+] (D:\Yang\学习\文献阅读\reference/10.1088_0004-637x_722_1_33.tex)
+[105
+
+
+]
+(D:\Yang\学习\文献阅读\reference/10.1146_annurev-nucl-102711-095018.tex)
+[106
+
+
+] (D:\Yang\学习\文献阅读\reference/10.1038_nature12505.tex) [107
+
+
+]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 229.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 229.
 
 (D:\Yang\学习\文献阅读\reference_reading.aux
 (D:\Yang\学习\文献阅读\reference/10.1086_149707.aux)
@@ -1453,8 +1456,8 @@ ux) (D:\Yang\学习\文献阅读\reference/10.1038_nature09466.aux)
 (D:\Yang\学习\文献阅读\reference/10.1088_0004-637x_722_1_33.aux)
 (D:\Yang\学习\文献阅读\reference/10.1146_annurev-nucl-102711-095018.aux)
 (D:\Yang\学习\文献阅读\reference/10.1038_nature12505.aux))
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 228.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 228.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 229.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 229.
 
 
 Package rerunfilecheck Warning: File `reference_reading.out' has changed.
@@ -1466,12 +1469,12 @@ Package rerunfilecheck Info: Checksums for `reference_reading.out':
 (rerunfilecheck)             After:  FACA09618F36DC940841EC16627631DC;12043.
  ) 
 Here is how much of TeX's memory you used:
- 16727 strings out of 495355
- 299210 string characters out of 3183881
- 440899 words of memory out of 3000000
- 18860 multiletter control sequences out of 15000+200000
- 41367 words of font info for 147 fonts, out of 3000000 for 9000
+ 16934 strings out of 495355
+ 304768 string characters out of 3183881
+ 443938 words of memory out of 3000000
+ 19062 multiletter control sequences out of 15000+200000
+ 42900 words of font info for 152 fonts, out of 3000000 for 9000
  14 hyphenation exceptions out of 8191
- 47i,12n,51p,1805b,1067s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 47i,12n,51p,2514b,1071s stack positions out of 5000i,500n,10000p,200000b,50000s
 
-Output written on reference_reading.dvi (109 pages, 443092 bytes).
+Output written on reference_reading.dvi (113 pages, 475800 bytes).

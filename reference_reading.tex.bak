@@ -14,6 +14,7 @@
 \theoremstyle{plain}
 \newtheorem{principle}{Principle}[chapter]
 \newtheorem{definition}{Def.}
+\newtheorem{key}{Key words}
 %´ÖÌå
 \usepackage{bm}
 %½Å×¢Ëõ½ø
@@ -221,4 +222,8 @@
 \include{reference/10.1111_j.1365-2966.2010.16864.x}
 \setcounter{footnote}{0}
 \include{reference/10.1088_0004-637x_722_1_33}
+\setcounter{footnote}{0}
+\include{reference/10.1146_annurev-nucl-102711-095018}
+\setcounter{footnote}{0}
+\include{reference/10.1038_nature12505}
 \end{document}

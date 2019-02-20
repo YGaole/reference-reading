@@ -1,6 +1,10 @@
-\section[1ST-ORDER PHASE-TRANSITIONS WITH MORE THAN ONE CONSERVED CHARGE - CONSEQUENCES FOR NEUTRON-STARS]{1ST-ORDER PHASE-TRANSITIONS WITH MORE THAN ONE CONSERVED CHARGE - CONSEQUENCES FOR NEUTRON-STARS\protect\footnote{Author: Glendenning, N. K. \\Address: Nuclear Science Division, Lawrence Berkeley Laboratory, University of California, One Cyclotron Road, Berkeley, California 94720 \\DOI: 10.1103/PhysRevD.46.1274 \\Journal: Physical Review D(1992).}}
+\section[1st-Order Phase-Transitions with More Than One Conserved Charge - Consequences for Neutron-Stars]{1st-Order Phase-Transitions with More Than One Conserved Charge - Consequences for Neutron-Stars\protect\footnote{Author: Glendenning, N. K. \\Address: Nuclear Science Division, Lawrence Berkeley Laboratory, University of California, One Cyclotron Road, Berkeley, California 94720 \\DOI: 10.1103/PhysRevD.46.1274 \\Journal: Physical Review D(1992).}}
 \subsection{Abstract}
-我们考虑具有多于一个守恒电荷的系统（多组分系统）的一阶相变如何区别于仅具有一个守恒电荷的系统的。在这两种情况下，相变的性质一般是不同的。也许最重要的是，压力随着相在平衡中的比例而连续变化，并且在混合相中不是象常数，如常见的单组分系统中的气液转变的例子。我们确定微物理负责的差异。在守恒电荷之一是电荷的情况下，期望混合相中的几何结构。作为例子，我们对中子星的结构提出了可能的结果，其中在核中发生了向夸克物质的转变。本文还指出，一般结果涉及在存在三个守恒电荷（重子、电性和奇异性）的所谓停止或重子富域中的相对论性核碰撞，并影响从受限强子物质到夸克亚光的相变。ER是关于被认为是由压力驱动的信号。这里讨论的物理也与低能核碰撞中正在研究的亚核气液转变有关。
+我们考虑具有多于一个守恒量(conserved charges)的系统（多组分系统）的一阶相变如何区别于仅具有一个守恒量的系统的。在这两种情况下，相变的性质一般是不同的。也许最重要的是，压力随着相在平衡中的比例而连续变化，并且与我们熟悉的比如单组分系统中的气液转变不同，在混合相中不是常数。我们确定这个差异是由粒子物理引起的。在电荷是守恒量之一的情况下，预期在混合相中会存在几何结构。例如，提出中子星的一个可能的结构，在这种结构中其核心处发生了到夸克物质的转变。本文还指出在存在三个守恒量(重子、电荷和奇异性)的所谓的阻停或丰重子区域发生的相对论性核碰撞的一般性结果，并且影响了对于有限强子物质到夸克物质的相变(作为假设是由压力驱动的标志)的预期。这里讨论的物理也与低能核碰撞中正在研究的亚核气液相变有关。
+
+\begin{keywords}
+中子星的物质；状态方程；
+\end{keywords} 
 \subsection{Knowledge}
 
 \subsection{Questions}
