@@ -1,6 +1,12 @@
 \section[Neutron-capture elements in the early galaxy: Insights from a large sample of metal-poor giants]{Neutron-capture elements in the early galaxy: Insights from a large sample of metal-poor giants\protect\footnote{Author: Burris, D. L. Pilachowski, C. A. Armandroff, T. E. Sneden, C. Cowan, J. J. Roe, H. \\Address: NaN. \\DOI: 10.1086/317172 \\Journal: Astrophysical Journal(2000).}}
 \subsection{Abstract}
-本文介绍了Bond survey中大量贫金属巨行星样品中中子俘获（N俘获）元素的新丰度。利用KPNO 4米echelle and coude feed 光谱仪获得了光谱，并利用LTE精细分析技术进行了线性分析和光谱合成。通过蓝色$(\gamma \gamma4070-471,\ R\sim20000,\ S/N ratio\sim100-200)$ echelle光谱和红色$(\gamma \gamma6100-6180,\ R\sim22000,\ S/N ratio\sim100-200)$ coud\'{e} 光谱.
+本文介绍了Bond survey中大量贫金属巨行星样品中中子俘获（N俘获）元素的新丰度。利用KPNO 4米echelle and coud\'{e} feed 光谱仪获得了光谱，并利用LTE精细分析技术进行了线性分析和光谱合成。通过蓝色$(\gamma \gamma4070-471,\ R\sim20000,\ S/N ratio\sim100-200)$ echelle光谱和红色$(\gamma \gamma6100-6180,\ R\sim22000,\ S/N\ ratio\sim100-200)$ coud\'{e} 光谱获得在43颗恒星的8种 n-capture(Sr, Y, Zr, Ba, La, Nd, Eu, Dy) 元素的丰度，只从红色光谱中推断出了额外的27颗恒星中Ba的丰度。\par
+
+总的来说，丰度清晰表明了恒星与恒星的重元素与铁的比率存在大的弥散。这种情况一定是由快速演化的晕前体(halo progenitors) 中的单个核合成事件引起的，这些前体将新制造的 n-capture 元素注入到不均匀的早期星系晕星际介质中。这些新的数据也证实了当金属性[Fe/H]$\lesssim-2.4$ ，在大多数的巨星中的重的$(Z\ge56)$的 n-capture 元素的丰度分布与标准化的太阳系的R过程核合成的分布匹配的很好。\par
+
+主要的R过程的开始可以看做当[Fe/H]$\simeq-2.9$时，这个开始与建议的低质量的II型超新星的R过程对应的是一致的。S 过程的贡献首先出现在一些金属丰度低至[Fe/h]$\sim-2.75$ 的恒星中，并且出现在大多数金属丰度为[Fe/h]$\sim2.3$ 的恒星中。随着金属丰度的增加，S 过程贡献的出现可能反映了（低质量）S过程核合成的较长的恒星演化时间尺度。\par
+
+较轻的n-capture 元素（Sr-Y-Zr）相对于较重的R过程元素丰度得到增强。它们的产生不能仅仅归因于任何太阳系R过程和主要的S过程的组合，而是需要来自R过程和额外的可以在早期星系中进行的 n-capture 过程的产物的混合。这个额外的过程可能是大质量恒星($\sim25M_{\odot}$)中的弱S过程，或者可能是第二个R过程，即不同于产生较重($Z\ge56$) n-capture 元素的过程。
 \subsection{Knowledge}
 
 \subsection{Questions}

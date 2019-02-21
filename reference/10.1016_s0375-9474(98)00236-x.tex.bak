@@ -1,6 +1,6 @@
 \section[Relativistic equation of state of nuclear matter for supernova and neutron star]{Relativistic equation of state of nuclear matter for supernova and neutron star\protect\footnote{Author: Shen, H. Toki, H. Oyamatsu, K. Sumiyoshi, K. \\Address: NaN. \\DOI: 10.1016/s0375-9474(98)00236-x \\Journal: Nuclear Physics A(1998).}}
 \subsection{Abstract}
-
+利用相对论平均场（RMF）理论，在宽的密度和温度范围内以及不同的质子占比的情况下，建立了核物质的状态方程，用于超新星模拟和中子星计算。我们首先构造了均匀核物质的EOS。我们用Thomas-Fermi近似来描述由重核与自由核子气体一起形成的非均匀物质。我们讨论了天体物理所感兴趣的广泛的范围内的能量、压力和熵作为自由的(参数)的结果。作为一个例子，我们利用Oppenheimer-Volkoff方程，将由此得到的EOS应用于(得到)中子星的性质。
 \subsection{Knowledge}
 
 \subsection{Questions}

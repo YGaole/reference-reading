@@ -1,6 +1,10 @@
 \section[Sonic-point model of kilohertz quasi-periodic brightness oscillations in low-mass X-ray binaries]{Sonic-point model of kilohertz quasi-periodic brightness oscillations in low-mass X-ray binaries\protect\footnote{Author: Miller, M. C. Lamb, F. K. Psaltis, D. \\Address: NaN. \\DOI: 10.1086/306408 \\Journal:Astrophysical Journal(1998).}}
 \subsection{Abstract}
-在来自于14个低质量双星系统中的中子星和在银河系中心方向的中子星的X射线发射中发现了频率在$\sim300$到$\sim1000$Hz范围内的准周期亮度振荡(QPOs)。这些KHz的QPOs非常强，其均方根相对振幅高达总X射线计数率的15\%，并且非常一致，频率与半高宽的比值高达$\sim200$。在15个源中有12个同时探测到了两个频率相差$\sim250-350$Hz的QPOs。这里，我们对这些QPOs提出了一个模型。在这个模型中X射线源是一个表面磁场强度为$\sim10^7-10^{10}$G、自旋频率为几百赫兹、通过Keplerian吸积盘吸积气体的中子星。一些正在吸积的气体是由恒星磁场引导的，但一些气体仍留在开普勒盘流中，该盘流穿透恒星表面几公里以内。在KHz的QPO对中的
+在来自于14个低质量双星系统的中子星以及另外一个在银河系中心方向的中子星的X射线发射中发现了频率在$\sim300$到$\sim1200$Hz范围内的准周期亮度振荡(QPOs)。这些KHz的QPOs非常强，其均方根(rms)相对振幅高达总X射线计数率的15\%，并且非常的相干，其频率与半高宽的比率高达$\sim200$。在15个源中有12个同时探测到了两个频率相差$\sim250-350$Hz的KHz的QPOs。这里我们对于这些QPOs提出了一个模型。在这个模型中，X射线源是一个表面磁场强度为$10^7-10^{10}$G，具有几百Hz自旋频率、通过Keplerian盘吸积气体的中子星。其中一些吸积的气体由恒星磁场引导，而其他的留在贯穿在中子星表面几公里范围的Keplerian盘流中。千赫兹的qpo对中频率较高的qpo的频率是在靠近开普勒流内边缘声速点的半径处的开普勒频率，而频率较低的QPO的频率是在接近声速点的半径处的开普勒频率与基本的或first overtone的恒星自转频率之间的差值。因此，这对QPOs的频率差接近（但不一定等于）恒星的自转频率。在声波点的开普勒频率和拍频处，QPOs的振幅取决于中子星磁场的强度和吸积率，因此这些QPOs中的一个或两个有时是无法探测的。在恒星自旋频率及其overtone处的振荡预计是微弱的，但有时能够被探测到的。该模型与先前X射线光谱模型和环礁源以及Z源的X射线快速变率推断的磁场强度、吸积率和散射光学深度一致。它自然地解释了千赫兹QPOs的频率和这些频率在具有不同吸积率和磁场的源中的相似性。该模型还解释了千赫兹QPOs的高相干度和大振幅以及QPO振幅随光子能量的急剧增加。在该模型中，在许多源中看到的QPO的频率随推测的吸积率的增加而增加也是可以理解的。我们证明了，如果在一对QPOs中的高频的qpo 的频率是轨道频率，就如在音速点模型中一样，则这些QPO的频率为千赫兹的QPO源的中子星的质量和半径上设置了有趣的上限，并对高密度物质的状态方程提供了新的约束。对这些QPOs的进一步观察可能为存在一个略微稳定的轨道提供有力的证据，证实在强场区域中的广义相对论的一个关键预测。
+
+\begin{keywords}
+中子星辐射；
+\end{keywords}
 \subsection{Knowledge}
 
 \subsection{Questions}

@@ -219,181 +219,181 @@
 \contentsline {subsection}{\numberline {1.54.3}Questions}{60}{subsection.1.54.3}
 \contentsline {section}{\numberline {1.55}Sonic-point model of kilohertz quasi-periodic brightness oscillations in low-mass X-ray binaries}{61}{section.1.55}
 \contentsline {subsection}{\numberline {1.55.1}Abstract}{61}{subsection.1.55.1}
-\contentsline {subsection}{\numberline {1.55.2}Knowledge}{61}{subsection.1.55.2}
-\contentsline {subsection}{\numberline {1.55.3}Questions}{61}{subsection.1.55.3}
-\contentsline {section}{\numberline {1.56}Relativistic equation of state of nuclear matter for supernova and neutron star}{62}{section.1.56}
-\contentsline {subsection}{\numberline {1.56.1}Abstract}{62}{subsection.1.56.1}
-\contentsline {subsection}{\numberline {1.56.2}Knowledge}{62}{subsection.1.56.2}
-\contentsline {subsection}{\numberline {1.56.3}Questions}{62}{subsection.1.56.3}
-\contentsline {section}{\numberline {1.57}A millisecond pulsar in an x-ray binary system}{63}{section.1.57}
-\contentsline {subsection}{\numberline {1.57.1}Abstract}{63}{subsection.1.57.1}
-\contentsline {subsection}{\numberline {1.57.2}Knowledge}{63}{subsection.1.57.2}
-\contentsline {subsection}{\numberline {1.57.3}Questions}{63}{subsection.1.57.3}
-\contentsline {section}{\numberline {1.58}Neutron capture in low-mass asymptotic giant branch stars: Cross sections and abundance signatures}{64}{section.1.58}
-\contentsline {subsection}{\numberline {1.58.1}Abstract}{64}{subsection.1.58.1}
-\contentsline {subsection}{\numberline {1.58.2}Knowledge}{64}{subsection.1.58.2}
-\contentsline {subsection}{\numberline {1.58.3}Questions}{64}{subsection.1.58.3}
-\contentsline {section}{\numberline {1.59}Nucleosynthesis in asymptotic giant branch stars: Relevance for Galactic enrichment and solar system formation}{65}{section.1.59}
-\contentsline {subsection}{\numberline {1.59.1}Abstract}{65}{subsection.1.59.1}
-\contentsline {subsection}{\numberline {1.59.2}Knowledge}{66}{subsection.1.59.2}
-\contentsline {subsection}{\numberline {1.59.3}Questions}{66}{subsection.1.59.3}
-\contentsline {section}{\numberline {1.60}r-process in neutron star mergers}{67}{section.1.60}
-\contentsline {subsection}{\numberline {1.60.1}Abstract}{67}{subsection.1.60.1}
-\contentsline {subsection}{\numberline {1.60.2}Knowledge}{67}{subsection.1.60.2}
-\contentsline {subsection}{\numberline {1.60.3}Questions}{67}{subsection.1.60.3}
-\contentsline {section}{\numberline {1.61}Discovery of a magnetar associated with the soft gamma repeater SGR 1900+14}{68}{section.1.61}
-\contentsline {subsection}{\numberline {1.61.1}Abstract}{68}{subsection.1.61.1}
-\contentsline {subsection}{\numberline {1.61.2}Knowledge}{68}{subsection.1.61.2}
-\contentsline {subsection}{\numberline {1.61.3}Questions}{68}{subsection.1.61.3}
-\contentsline {section}{\numberline {1.62}Collapsars: Gamma-ray bursts and explosions in "failed supernovae"}{69}{section.1.62}
-\contentsline {subsection}{\numberline {1.62.1}Abstract}{69}{subsection.1.62.1}
-\contentsline {subsection}{\numberline {1.62.2}Knowledge}{70}{subsection.1.62.2}
-\contentsline {subsection}{\numberline {1.62.3}Questions}{70}{subsection.1.62.3}
-\contentsline {section}{\numberline {1.63}Evolution of proto-neutron stars}{71}{section.1.63}
-\contentsline {subsection}{\numberline {1.63.1}Abstract}{71}{subsection.1.63.1}
-\contentsline {subsection}{\numberline {1.63.2}Knowledge}{71}{subsection.1.63.2}
-\contentsline {subsection}{\numberline {1.63.3}Questions}{71}{subsection.1.63.3}
-\contentsline {section}{\numberline {1.64}Neutron star mass measurements. I. Radio pulsars}{72}{section.1.64}
-\contentsline {subsection}{\numberline {1.64.1}Abstract}{72}{subsection.1.64.1}
-\contentsline {subsection}{\numberline {1.64.2}Knowledge}{72}{subsection.1.64.2}
-\contentsline {subsection}{\numberline {1.64.3}Questions}{72}{subsection.1.64.3}
-\contentsline {section}{\numberline {1.65}Neutron-capture elements in the early galaxy: Insights from a large sample of metal-poor giants}{73}{section.1.65}
-\contentsline {subsection}{\numberline {1.65.1}Abstract}{73}{subsection.1.65.1}
-\contentsline {subsection}{\numberline {1.65.2}Knowledge}{73}{subsection.1.65.2}
-\contentsline {subsection}{\numberline {1.65.3}Questions}{73}{subsection.1.65.3}
-\contentsline {section}{\numberline {1.66}A unified equation of state of dense matter and neutron star structure}{74}{section.1.66}
-\contentsline {subsection}{\numberline {1.66.1}Abstract}{74}{subsection.1.66.1}
-\contentsline {subsection}{\numberline {1.66.2}Knowledge}{74}{subsection.1.66.2}
-\contentsline {subsection}{\numberline {1.66.3}Questions}{74}{subsection.1.66.3}
-\contentsline {section}{\numberline {1.67}Neutron star structure and the neutron radius of Pb-208}{75}{section.1.67}
-\contentsline {subsection}{\numberline {1.67.1}Abstract}{75}{subsection.1.67.1}
-\contentsline {subsection}{\numberline {1.67.2}Knowledge}{75}{subsection.1.67.2}
-\contentsline {subsection}{\numberline {1.67.3}Questions}{75}{subsection.1.67.3}
-\contentsline {section}{\numberline {1.68}Neutron star structure and the equation of state}{76}{section.1.68}
-\contentsline {subsection}{\numberline {1.68.1}Abstract}{76}{subsection.1.68.1}
-\contentsline {subsection}{\numberline {1.68.2}Knowledge}{76}{subsection.1.68.2}
-\contentsline {subsection}{\numberline {1.68.3}Questions}{76}{subsection.1.68.3}
-\contentsline {section}{\numberline {1.69}Neutrino emission from neutron stars}{77}{section.1.69}
-\contentsline {subsection}{\numberline {1.69.1}Abstract}{77}{subsection.1.69.1}
-\contentsline {subsection}{\numberline {1.69.2}Knowledge}{77}{subsection.1.69.2}
-\contentsline {subsection}{\numberline {1.69.3}Questions}{77}{subsection.1.69.3}
-\contentsline {section}{\numberline {1.70}The velocity distribution of isolated radio pulsars}{78}{section.1.70}
-\contentsline {subsection}{\numberline {1.70.1}Abstract}{78}{subsection.1.70.1}
-\contentsline {subsection}{\numberline {1.70.2}Knowledge}{78}{subsection.1.70.2}
-\contentsline {subsection}{\numberline {1.70.3}Questions}{78}{subsection.1.70.3}
-\contentsline {section}{\numberline {1.71}A comprehensive study of binary compact objects as gravitational wave sources: Evolutionary channels, rates, and physical properties}{79}{section.1.71}
-\contentsline {subsection}{\numberline {1.71.1}Abstract}{79}{subsection.1.71.1}
-\contentsline {subsection}{\numberline {1.71.2}Knowledge}{79}{subsection.1.71.2}
-\contentsline {subsection}{\numberline {1.71.3}Questions}{79}{subsection.1.71.3}
-\contentsline {section}{\numberline {1.72}Gravitationally redshifted absorption lines in the X-ray burst spectra of a neutron star}{80}{section.1.72}
-\contentsline {subsection}{\numberline {1.72.1}Abstract}{80}{subsection.1.72.1}
-\contentsline {subsection}{\numberline {1.72.2}Knowledge}{80}{subsection.1.72.2}
-\contentsline {subsection}{\numberline {1.72.3}Questions}{80}{subsection.1.72.3}
-\contentsline {section}{\numberline {1.73}Determination of the equation of state of dense matter}{81}{section.1.73}
-\contentsline {subsection}{\numberline {1.73.1}Abstract}{81}{subsection.1.73.1}
-\contentsline {subsection}{\numberline {1.73.2}Knowledge}{81}{subsection.1.73.2}
-\contentsline {subsection}{\numberline {1.73.3}Questions}{81}{subsection.1.73.3}
-\contentsline {section}{\numberline {1.74}Electrodynamics of magnetars: Implications for the persistent X-ray emission and spin-down of the soft gamma repeaters and anomalous X-ray pulsars}{82}{section.1.74}
-\contentsline {subsection}{\numberline {1.74.1}Abstract}{82}{subsection.1.74.1}
-\contentsline {subsection}{\numberline {1.74.2}Knowledge}{82}{subsection.1.74.2}
-\contentsline {subsection}{\numberline {1.74.3}Questions}{82}{subsection.1.74.3}
-\contentsline {section}{\numberline {1.75}The evolution and explosion of massive stars}{83}{section.1.75}
-\contentsline {subsection}{\numberline {1.75.1}Abstract}{83}{subsection.1.75.1}
-\contentsline {subsection}{\numberline {1.75.2}Knowledge}{83}{subsection.1.75.2}
-\contentsline {subsection}{\numberline {1.75.3}Questions}{83}{subsection.1.75.3}
-\contentsline {section}{\numberline {1.76}An increased estimate of the merger rate of double neutron stars from observations of a highly relativistic system}{84}{section.1.76}
-\contentsline {subsection}{\numberline {1.76.1}Abstract}{84}{subsection.1.76.1}
-\contentsline {subsection}{\numberline {1.76.2}Knowledge}{84}{subsection.1.76.2}
-\contentsline {subsection}{\numberline {1.76.3}Questions}{84}{subsection.1.76.3}
-\contentsline {section}{\numberline {1.77}Nuclear-powered millisecond pulsars and the maximum spin frequency of neutron stars}{85}{section.1.77}
-\contentsline {subsection}{\numberline {1.77.1}Abstract}{85}{subsection.1.77.1}
-\contentsline {subsection}{\numberline {1.77.2}Knowledge}{85}{subsection.1.77.2}
-\contentsline {subsection}{\numberline {1.77.3}Questions}{85}{subsection.1.77.3}
-\contentsline {section}{\numberline {1.78}The extremely metal-poor, neutron capture-rich star CS 22892-052: A comprehensive abundance analysis}{86}{section.1.78}
-\contentsline {subsection}{\numberline {1.78.1}Abstract}{86}{subsection.1.78.1}
-\contentsline {subsection}{\numberline {1.78.2}Knowledge}{86}{subsection.1.78.2}
-\contentsline {subsection}{\numberline {1.78.3}Questions}{86}{subsection.1.78.3}
-\contentsline {section}{\numberline {1.79}The physics of neutron stars}{87}{section.1.79}
-\contentsline {subsection}{\numberline {1.79.1}Abstract}{87}{subsection.1.79.1}
-\contentsline {subsection}{\numberline {1.79.2}Knowledge}{87}{subsection.1.79.2}
-\contentsline {subsection}{\numberline {1.79.3}Questions}{87}{subsection.1.79.3}
-\contentsline {section}{\numberline {1.80}A double-pulsar system: A rare laboratory for relativistic gravity and plasma physics}{88}{section.1.80}
-\contentsline {subsection}{\numberline {1.80.1}Abstract}{88}{subsection.1.80.1}
-\contentsline {subsection}{\numberline {1.80.2}Knowledge}{88}{subsection.1.80.2}
-\contentsline {subsection}{\numberline {1.80.3}Questions}{88}{subsection.1.80.3}
-\contentsline {section}{\numberline {1.81}Minimal cooling of neutron stars: A new paradigm}{89}{section.1.81}
-\contentsline {subsection}{\numberline {1.81.1}Abstract}{89}{subsection.1.81.1}
-\contentsline {subsection}{\numberline {1.81.2}Knowledge}{89}{subsection.1.81.2}
-\contentsline {subsection}{\numberline {1.81.3}Questions}{89}{subsection.1.81.3}
-\contentsline {section}{\numberline {1.82}Galactic evolution of Sr, Y, and Zr: A multiplicity of nucleosynthetic processes}{90}{section.1.82}
-\contentsline {subsection}{\numberline {1.82.1}Abstract}{90}{subsection.1.82.1}
-\contentsline {subsection}{\numberline {1.82.2}Knowledge}{90}{subsection.1.82.2}
-\contentsline {subsection}{\numberline {1.82.3}Questions}{90}{subsection.1.82.3}
-\contentsline {section}{\numberline {1.83}Neutron star cooling}{91}{section.1.83}
-\contentsline {subsection}{\numberline {1.83.1}Abstract}{91}{subsection.1.83.1}
-\contentsline {subsection}{\numberline {1.83.2}Knowledge}{91}{subsection.1.83.2}
-\contentsline {subsection}{\numberline {1.83.3}Questions}{91}{subsection.1.83.3}
-\contentsline {section}{\numberline {1.84}A statistical study of 233 pulsar proper motions}{92}{section.1.84}
-\contentsline {subsection}{\numberline {1.84.1}Abstract}{92}{subsection.1.84.1}
-\contentsline {subsection}{\numberline {1.84.2}Knowledge}{92}{subsection.1.84.2}
-\contentsline {subsection}{\numberline {1.84.3}Questions}{92}{subsection.1.84.3}
-\contentsline {section}{\numberline {1.85}Isospin asymmetry in nuclei and neutron stars}{93}{section.1.85}
-\contentsline {subsection}{\numberline {1.85.1}Abstract}{93}{subsection.1.85.1}
-\contentsline {subsection}{\numberline {1.85.2}Knowledge}{93}{subsection.1.85.2}
-\contentsline {subsection}{\numberline {1.85.3}Questions}{93}{subsection.1.85.3}
-\contentsline {section}{\numberline {1.86}Physics of strongly magnetized neutron stars}{94}{section.1.86}
-\contentsline {subsection}{\numberline {1.86.1}Abstract}{94}{subsection.1.86.1}
-\contentsline {subsection}{\numberline {1.86.2}Knowledge}{94}{subsection.1.86.2}
-\contentsline {subsection}{\numberline {1.86.3}Questions}{94}{subsection.1.86.3}
-\contentsline {section}{\numberline {1.87}A radio pulsar spinning at 716 Hz}{95}{section.1.87}
-\contentsline {subsection}{\numberline {1.87.1}Abstract}{95}{subsection.1.87.1}
-\contentsline {subsection}{\numberline {1.87.2}Knowledge}{95}{subsection.1.87.2}
-\contentsline {subsection}{\numberline {1.87.3}Questions}{95}{subsection.1.87.3}
-\contentsline {section}{\numberline {1.88}Time-dependent force-free pulsar magnetospheres: Axisymmetric and oblique rotators}{96}{section.1.88}
-\contentsline {subsection}{\numberline {1.88.1}Abstract}{96}{subsection.1.88.1}
-\contentsline {subsection}{\numberline {1.88.2}Knowledge}{96}{subsection.1.88.2}
-\contentsline {subsection}{\numberline {1.88.3}Questions}{96}{subsection.1.88.3}
-\contentsline {section}{\numberline {1.89}Neutron star observations: Prognosis for equation of state constraints}{97}{section.1.89}
-\contentsline {subsection}{\numberline {1.89.1}Abstract}{97}{subsection.1.89.1}
-\contentsline {subsection}{\numberline {1.89.2}Knowledge}{97}{subsection.1.89.2}
-\contentsline {subsection}{\numberline {1.89.3}Questions}{97}{subsection.1.89.3}
-\contentsline {section}{\numberline {1.90}Short-hard gamma-ray bursts}{98}{section.1.90}
-\contentsline {subsection}{\numberline {1.90.1}Abstract}{98}{subsection.1.90.1}
-\contentsline {subsection}{\numberline {1.90.2}Knowledge}{98}{subsection.1.90.2}
-\contentsline {subsection}{\numberline {1.90.3}Questions}{98}{subsection.1.90.3}
-\contentsline {section}{\numberline {1.91}Thermonuclear (Type I) X-Ray Bursts Observed by the Rossi X-Ray Timing Explorer}{99}{section.1.91}
-\contentsline {subsection}{\numberline {1.91.1}Abstract}{99}{subsection.1.91.1}
-\contentsline {subsection}{\numberline {1.91.2}Knowledge}{99}{subsection.1.91.2}
-\contentsline {subsection}{\numberline {1.91.3}Questions}{99}{subsection.1.91.3}
-\contentsline {section}{\numberline {1.92}Recent progress and new challenges in isospin physics with heavy-ion reactions}{100}{section.1.92}
-\contentsline {subsection}{\numberline {1.92.1}Abstract}{100}{subsection.1.92.1}
-\contentsline {subsection}{\numberline {1.92.2}Knowledge}{100}{subsection.1.92.2}
-\contentsline {subsection}{\numberline {1.92.3}Questions}{100}{subsection.1.92.3}
-\contentsline {section}{\numberline {1.93}The strongest cosmic magnets: soft gamma-ray repeaters and anomalous X-ray pulsars}{101}{section.1.93}
-\contentsline {subsection}{\numberline {1.93.1}Abstract}{101}{subsection.1.93.1}
-\contentsline {subsection}{\numberline {1.93.2}Knowledge}{101}{subsection.1.93.2}
-\contentsline {subsection}{\numberline {1.93.3}Questions}{101}{subsection.1.93.3}
-\contentsline {section}{\numberline {1.94}Neutron-capture elements in the early Galaxy}{102}{section.1.94}
-\contentsline {subsection}{\numberline {1.94.1}Abstract}{102}{subsection.1.94.1}
-\contentsline {subsection}{\numberline {1.94.2}Knowledge}{102}{subsection.1.94.2}
-\contentsline {subsection}{\numberline {1.94.3}Questions}{102}{subsection.1.94.3}
-\contentsline {section}{\numberline {1.95}A two-solar-mass neutron star measured using Shapiro delay}{103}{section.1.95}
-\contentsline {subsection}{\numberline {1.95.1}Abstract}{103}{subsection.1.95.1}
-\contentsline {subsection}{\numberline {1.95.2}Knowledge}{103}{subsection.1.95.2}
-\contentsline {subsection}{\numberline {1.95.3}Questions}{103}{subsection.1.95.3}
-\contentsline {section}{\numberline {1.96}Electromagnetic counterparts of compact object mergers powered by the radioactive decay of r-process nuclei}{104}{section.1.96}
-\contentsline {subsection}{\numberline {1.96.1}Abstract}{104}{subsection.1.96.1}
-\contentsline {subsection}{\numberline {1.96.2}Knowledge}{104}{subsection.1.96.2}
-\contentsline {subsection}{\numberline {1.96.3}Questions}{104}{subsection.1.96.3}
-\contentsline {section}{\numberline {1.97}The Equation of State from Observed Masses and Radii of Neutron Stars}{105}{section.1.97}
-\contentsline {subsection}{\numberline {1.97.1}Abstract}{105}{subsection.1.97.1}
-\contentsline {subsection}{\numberline {1.97.2}Knowledge}{105}{subsection.1.97.2}
-\contentsline {subsection}{\numberline {1.97.3}Questions}{105}{subsection.1.97.3}
-\contentsline {section}{\numberline {1.98}The Nuclear Equation of State and Neutron Star Masses}{106}{section.1.98}
-\contentsline {subsection}{\numberline {1.98.1}Abstract}{106}{subsection.1.98.1}
-\contentsline {subsection}{\numberline {1.98.2}Knowledge}{106}{subsection.1.98.2}
-\contentsline {subsection}{\numberline {1.98.3}Questions}{106}{subsection.1.98.3}
-\contentsline {section}{\numberline {1.99}A 'kilonova' associated with the short-duration gamma-ray burst GRB 130603B}{107}{section.1.99}
-\contentsline {subsection}{\numberline {1.99.1}Abstract}{107}{subsection.1.99.1}
-\contentsline {subsection}{\numberline {1.99.2}Knowledge}{107}{subsection.1.99.2}
-\contentsline {subsection}{\numberline {1.99.3}Questions}{107}{subsection.1.99.3}
+\contentsline {subsection}{\numberline {1.55.2}Knowledge}{62}{subsection.1.55.2}
+\contentsline {subsection}{\numberline {1.55.3}Questions}{62}{subsection.1.55.3}
+\contentsline {section}{\numberline {1.56}Relativistic equation of state of nuclear matter for supernova and neutron star}{63}{section.1.56}
+\contentsline {subsection}{\numberline {1.56.1}Abstract}{63}{subsection.1.56.1}
+\contentsline {subsection}{\numberline {1.56.2}Knowledge}{63}{subsection.1.56.2}
+\contentsline {subsection}{\numberline {1.56.3}Questions}{63}{subsection.1.56.3}
+\contentsline {section}{\numberline {1.57}A millisecond pulsar in an x-ray binary system}{64}{section.1.57}
+\contentsline {subsection}{\numberline {1.57.1}Abstract}{64}{subsection.1.57.1}
+\contentsline {subsection}{\numberline {1.57.2}Knowledge}{64}{subsection.1.57.2}
+\contentsline {subsection}{\numberline {1.57.3}Questions}{64}{subsection.1.57.3}
+\contentsline {section}{\numberline {1.58}Neutron capture in low-mass asymptotic giant branch stars: Cross sections and abundance signatures}{65}{section.1.58}
+\contentsline {subsection}{\numberline {1.58.1}Abstract}{65}{subsection.1.58.1}
+\contentsline {subsection}{\numberline {1.58.2}Knowledge}{65}{subsection.1.58.2}
+\contentsline {subsection}{\numberline {1.58.3}Questions}{65}{subsection.1.58.3}
+\contentsline {section}{\numberline {1.59}Nucleosynthesis in asymptotic giant branch stars: Relevance for Galactic enrichment and solar system formation}{66}{section.1.59}
+\contentsline {subsection}{\numberline {1.59.1}Abstract}{66}{subsection.1.59.1}
+\contentsline {subsection}{\numberline {1.59.2}Knowledge}{67}{subsection.1.59.2}
+\contentsline {subsection}{\numberline {1.59.3}Questions}{67}{subsection.1.59.3}
+\contentsline {section}{\numberline {1.60}r-process in neutron star mergers}{68}{section.1.60}
+\contentsline {subsection}{\numberline {1.60.1}Abstract}{68}{subsection.1.60.1}
+\contentsline {subsection}{\numberline {1.60.2}Knowledge}{68}{subsection.1.60.2}
+\contentsline {subsection}{\numberline {1.60.3}Questions}{68}{subsection.1.60.3}
+\contentsline {section}{\numberline {1.61}Discovery of a magnetar associated with the soft gamma repeater SGR 1900+14}{69}{section.1.61}
+\contentsline {subsection}{\numberline {1.61.1}Abstract}{69}{subsection.1.61.1}
+\contentsline {subsection}{\numberline {1.61.2}Knowledge}{69}{subsection.1.61.2}
+\contentsline {subsection}{\numberline {1.61.3}Questions}{69}{subsection.1.61.3}
+\contentsline {section}{\numberline {1.62}Collapsars: Gamma-ray bursts and explosions in "failed supernovae"}{70}{section.1.62}
+\contentsline {subsection}{\numberline {1.62.1}Abstract}{70}{subsection.1.62.1}
+\contentsline {subsection}{\numberline {1.62.2}Knowledge}{71}{subsection.1.62.2}
+\contentsline {subsection}{\numberline {1.62.3}Questions}{71}{subsection.1.62.3}
+\contentsline {section}{\numberline {1.63}Evolution of proto-neutron stars}{72}{section.1.63}
+\contentsline {subsection}{\numberline {1.63.1}Abstract}{72}{subsection.1.63.1}
+\contentsline {subsection}{\numberline {1.63.2}Knowledge}{72}{subsection.1.63.2}
+\contentsline {subsection}{\numberline {1.63.3}Questions}{72}{subsection.1.63.3}
+\contentsline {section}{\numberline {1.64}Neutron star mass measurements. I. Radio pulsars}{73}{section.1.64}
+\contentsline {subsection}{\numberline {1.64.1}Abstract}{73}{subsection.1.64.1}
+\contentsline {subsection}{\numberline {1.64.2}Knowledge}{73}{subsection.1.64.2}
+\contentsline {subsection}{\numberline {1.64.3}Questions}{73}{subsection.1.64.3}
+\contentsline {section}{\numberline {1.65}Neutron-capture elements in the early galaxy: Insights from a large sample of metal-poor giants}{74}{section.1.65}
+\contentsline {subsection}{\numberline {1.65.1}Abstract}{74}{subsection.1.65.1}
+\contentsline {subsection}{\numberline {1.65.2}Knowledge}{74}{subsection.1.65.2}
+\contentsline {subsection}{\numberline {1.65.3}Questions}{74}{subsection.1.65.3}
+\contentsline {section}{\numberline {1.66}A unified equation of state of dense matter and neutron star structure}{75}{section.1.66}
+\contentsline {subsection}{\numberline {1.66.1}Abstract}{75}{subsection.1.66.1}
+\contentsline {subsection}{\numberline {1.66.2}Knowledge}{75}{subsection.1.66.2}
+\contentsline {subsection}{\numberline {1.66.3}Questions}{75}{subsection.1.66.3}
+\contentsline {section}{\numberline {1.67}Neutron star structure and the neutron radius of Pb-208}{76}{section.1.67}
+\contentsline {subsection}{\numberline {1.67.1}Abstract}{76}{subsection.1.67.1}
+\contentsline {subsection}{\numberline {1.67.2}Knowledge}{76}{subsection.1.67.2}
+\contentsline {subsection}{\numberline {1.67.3}Questions}{76}{subsection.1.67.3}
+\contentsline {section}{\numberline {1.68}Neutron star structure and the equation of state}{77}{section.1.68}
+\contentsline {subsection}{\numberline {1.68.1}Abstract}{77}{subsection.1.68.1}
+\contentsline {subsection}{\numberline {1.68.2}Knowledge}{77}{subsection.1.68.2}
+\contentsline {subsection}{\numberline {1.68.3}Questions}{77}{subsection.1.68.3}
+\contentsline {section}{\numberline {1.69}Neutrino emission from neutron stars}{78}{section.1.69}
+\contentsline {subsection}{\numberline {1.69.1}Abstract}{78}{subsection.1.69.1}
+\contentsline {subsection}{\numberline {1.69.2}Knowledge}{78}{subsection.1.69.2}
+\contentsline {subsection}{\numberline {1.69.3}Questions}{78}{subsection.1.69.3}
+\contentsline {section}{\numberline {1.70}The velocity distribution of isolated radio pulsars}{79}{section.1.70}
+\contentsline {subsection}{\numberline {1.70.1}Abstract}{79}{subsection.1.70.1}
+\contentsline {subsection}{\numberline {1.70.2}Knowledge}{79}{subsection.1.70.2}
+\contentsline {subsection}{\numberline {1.70.3}Questions}{79}{subsection.1.70.3}
+\contentsline {section}{\numberline {1.71}A comprehensive study of binary compact objects as gravitational wave sources: Evolutionary channels, rates, and physical properties}{80}{section.1.71}
+\contentsline {subsection}{\numberline {1.71.1}Abstract}{80}{subsection.1.71.1}
+\contentsline {subsection}{\numberline {1.71.2}Knowledge}{80}{subsection.1.71.2}
+\contentsline {subsection}{\numberline {1.71.3}Questions}{80}{subsection.1.71.3}
+\contentsline {section}{\numberline {1.72}Gravitationally redshifted absorption lines in the X-ray burst spectra of a neutron star}{81}{section.1.72}
+\contentsline {subsection}{\numberline {1.72.1}Abstract}{81}{subsection.1.72.1}
+\contentsline {subsection}{\numberline {1.72.2}Knowledge}{81}{subsection.1.72.2}
+\contentsline {subsection}{\numberline {1.72.3}Questions}{81}{subsection.1.72.3}
+\contentsline {section}{\numberline {1.73}Determination of the equation of state of dense matter}{82}{section.1.73}
+\contentsline {subsection}{\numberline {1.73.1}Abstract}{82}{subsection.1.73.1}
+\contentsline {subsection}{\numberline {1.73.2}Knowledge}{82}{subsection.1.73.2}
+\contentsline {subsection}{\numberline {1.73.3}Questions}{82}{subsection.1.73.3}
+\contentsline {section}{\numberline {1.74}Electrodynamics of magnetars: Implications for the persistent X-ray emission and spin-down of the soft gamma repeaters and anomalous X-ray pulsars}{83}{section.1.74}
+\contentsline {subsection}{\numberline {1.74.1}Abstract}{83}{subsection.1.74.1}
+\contentsline {subsection}{\numberline {1.74.2}Knowledge}{83}{subsection.1.74.2}
+\contentsline {subsection}{\numberline {1.74.3}Questions}{83}{subsection.1.74.3}
+\contentsline {section}{\numberline {1.75}The evolution and explosion of massive stars}{84}{section.1.75}
+\contentsline {subsection}{\numberline {1.75.1}Abstract}{84}{subsection.1.75.1}
+\contentsline {subsection}{\numberline {1.75.2}Knowledge}{84}{subsection.1.75.2}
+\contentsline {subsection}{\numberline {1.75.3}Questions}{84}{subsection.1.75.3}
+\contentsline {section}{\numberline {1.76}An increased estimate of the merger rate of double neutron stars from observations of a highly relativistic system}{85}{section.1.76}
+\contentsline {subsection}{\numberline {1.76.1}Abstract}{85}{subsection.1.76.1}
+\contentsline {subsection}{\numberline {1.76.2}Knowledge}{85}{subsection.1.76.2}
+\contentsline {subsection}{\numberline {1.76.3}Questions}{85}{subsection.1.76.3}
+\contentsline {section}{\numberline {1.77}Nuclear-powered millisecond pulsars and the maximum spin frequency of neutron stars}{86}{section.1.77}
+\contentsline {subsection}{\numberline {1.77.1}Abstract}{86}{subsection.1.77.1}
+\contentsline {subsection}{\numberline {1.77.2}Knowledge}{86}{subsection.1.77.2}
+\contentsline {subsection}{\numberline {1.77.3}Questions}{86}{subsection.1.77.3}
+\contentsline {section}{\numberline {1.78}The extremely metal-poor, neutron capture-rich star CS 22892-052: A comprehensive abundance analysis}{87}{section.1.78}
+\contentsline {subsection}{\numberline {1.78.1}Abstract}{87}{subsection.1.78.1}
+\contentsline {subsection}{\numberline {1.78.2}Knowledge}{87}{subsection.1.78.2}
+\contentsline {subsection}{\numberline {1.78.3}Questions}{87}{subsection.1.78.3}
+\contentsline {section}{\numberline {1.79}The physics of neutron stars}{88}{section.1.79}
+\contentsline {subsection}{\numberline {1.79.1}Abstract}{88}{subsection.1.79.1}
+\contentsline {subsection}{\numberline {1.79.2}Knowledge}{88}{subsection.1.79.2}
+\contentsline {subsection}{\numberline {1.79.3}Questions}{88}{subsection.1.79.3}
+\contentsline {section}{\numberline {1.80}A double-pulsar system: A rare laboratory for relativistic gravity and plasma physics}{89}{section.1.80}
+\contentsline {subsection}{\numberline {1.80.1}Abstract}{89}{subsection.1.80.1}
+\contentsline {subsection}{\numberline {1.80.2}Knowledge}{89}{subsection.1.80.2}
+\contentsline {subsection}{\numberline {1.80.3}Questions}{89}{subsection.1.80.3}
+\contentsline {section}{\numberline {1.81}Minimal cooling of neutron stars: A new paradigm}{90}{section.1.81}
+\contentsline {subsection}{\numberline {1.81.1}Abstract}{90}{subsection.1.81.1}
+\contentsline {subsection}{\numberline {1.81.2}Knowledge}{90}{subsection.1.81.2}
+\contentsline {subsection}{\numberline {1.81.3}Questions}{90}{subsection.1.81.3}
+\contentsline {section}{\numberline {1.82}Galactic evolution of Sr, Y, and Zr: A multiplicity of nucleosynthetic processes}{91}{section.1.82}
+\contentsline {subsection}{\numberline {1.82.1}Abstract}{91}{subsection.1.82.1}
+\contentsline {subsection}{\numberline {1.82.2}Knowledge}{92}{subsection.1.82.2}
+\contentsline {subsection}{\numberline {1.82.3}Questions}{92}{subsection.1.82.3}
+\contentsline {section}{\numberline {1.83}Neutron star cooling}{93}{section.1.83}
+\contentsline {subsection}{\numberline {1.83.1}Abstract}{93}{subsection.1.83.1}
+\contentsline {subsection}{\numberline {1.83.2}Knowledge}{93}{subsection.1.83.2}
+\contentsline {subsection}{\numberline {1.83.3}Questions}{93}{subsection.1.83.3}
+\contentsline {section}{\numberline {1.84}A statistical study of 233 pulsar proper motions}{94}{section.1.84}
+\contentsline {subsection}{\numberline {1.84.1}Abstract}{94}{subsection.1.84.1}
+\contentsline {subsection}{\numberline {1.84.2}Knowledge}{94}{subsection.1.84.2}
+\contentsline {subsection}{\numberline {1.84.3}Questions}{94}{subsection.1.84.3}
+\contentsline {section}{\numberline {1.85}Isospin asymmetry in nuclei and neutron stars}{95}{section.1.85}
+\contentsline {subsection}{\numberline {1.85.1}Abstract}{95}{subsection.1.85.1}
+\contentsline {subsection}{\numberline {1.85.2}Knowledge}{95}{subsection.1.85.2}
+\contentsline {subsection}{\numberline {1.85.3}Questions}{95}{subsection.1.85.3}
+\contentsline {section}{\numberline {1.86}Physics of strongly magnetized neutron stars}{96}{section.1.86}
+\contentsline {subsection}{\numberline {1.86.1}Abstract}{96}{subsection.1.86.1}
+\contentsline {subsection}{\numberline {1.86.2}Knowledge}{96}{subsection.1.86.2}
+\contentsline {subsection}{\numberline {1.86.3}Questions}{96}{subsection.1.86.3}
+\contentsline {section}{\numberline {1.87}A radio pulsar spinning at 716 Hz}{97}{section.1.87}
+\contentsline {subsection}{\numberline {1.87.1}Abstract}{97}{subsection.1.87.1}
+\contentsline {subsection}{\numberline {1.87.2}Knowledge}{97}{subsection.1.87.2}
+\contentsline {subsection}{\numberline {1.87.3}Questions}{97}{subsection.1.87.3}
+\contentsline {section}{\numberline {1.88}Time-dependent force-free pulsar magnetospheres: Axisymmetric and oblique rotators}{98}{section.1.88}
+\contentsline {subsection}{\numberline {1.88.1}Abstract}{98}{subsection.1.88.1}
+\contentsline {subsection}{\numberline {1.88.2}Knowledge}{98}{subsection.1.88.2}
+\contentsline {subsection}{\numberline {1.88.3}Questions}{98}{subsection.1.88.3}
+\contentsline {section}{\numberline {1.89}Neutron star observations: Prognosis for equation of state constraints}{99}{section.1.89}
+\contentsline {subsection}{\numberline {1.89.1}Abstract}{99}{subsection.1.89.1}
+\contentsline {subsection}{\numberline {1.89.2}Knowledge}{99}{subsection.1.89.2}
+\contentsline {subsection}{\numberline {1.89.3}Questions}{99}{subsection.1.89.3}
+\contentsline {section}{\numberline {1.90}Short-hard gamma-ray bursts}{100}{section.1.90}
+\contentsline {subsection}{\numberline {1.90.1}Abstract}{100}{subsection.1.90.1}
+\contentsline {subsection}{\numberline {1.90.2}Knowledge}{100}{subsection.1.90.2}
+\contentsline {subsection}{\numberline {1.90.3}Questions}{100}{subsection.1.90.3}
+\contentsline {section}{\numberline {1.91}Thermonuclear (Type I) X-Ray Bursts Observed by the Rossi X-Ray Timing Explorer}{101}{section.1.91}
+\contentsline {subsection}{\numberline {1.91.1}Abstract}{101}{subsection.1.91.1}
+\contentsline {subsection}{\numberline {1.91.2}Knowledge}{101}{subsection.1.91.2}
+\contentsline {subsection}{\numberline {1.91.3}Questions}{101}{subsection.1.91.3}
+\contentsline {section}{\numberline {1.92}Recent progress and new challenges in isospin physics with heavy-ion reactions}{102}{section.1.92}
+\contentsline {subsection}{\numberline {1.92.1}Abstract}{102}{subsection.1.92.1}
+\contentsline {subsection}{\numberline {1.92.2}Knowledge}{102}{subsection.1.92.2}
+\contentsline {subsection}{\numberline {1.92.3}Questions}{102}{subsection.1.92.3}
+\contentsline {section}{\numberline {1.93}The strongest cosmic magnets: soft gamma-ray repeaters and anomalous X-ray pulsars}{103}{section.1.93}
+\contentsline {subsection}{\numberline {1.93.1}Abstract}{103}{subsection.1.93.1}
+\contentsline {subsection}{\numberline {1.93.2}Knowledge}{103}{subsection.1.93.2}
+\contentsline {subsection}{\numberline {1.93.3}Questions}{103}{subsection.1.93.3}
+\contentsline {section}{\numberline {1.94}Neutron-capture elements in the early Galaxy}{104}{section.1.94}
+\contentsline {subsection}{\numberline {1.94.1}Abstract}{104}{subsection.1.94.1}
+\contentsline {subsection}{\numberline {1.94.2}Knowledge}{104}{subsection.1.94.2}
+\contentsline {subsection}{\numberline {1.94.3}Questions}{104}{subsection.1.94.3}
+\contentsline {section}{\numberline {1.95}A two-solar-mass neutron star measured using Shapiro delay}{105}{section.1.95}
+\contentsline {subsection}{\numberline {1.95.1}Abstract}{105}{subsection.1.95.1}
+\contentsline {subsection}{\numberline {1.95.2}Knowledge}{105}{subsection.1.95.2}
+\contentsline {subsection}{\numberline {1.95.3}Questions}{105}{subsection.1.95.3}
+\contentsline {section}{\numberline {1.96}Electromagnetic counterparts of compact object mergers powered by the radioactive decay of r-process nuclei}{106}{section.1.96}
+\contentsline {subsection}{\numberline {1.96.1}Abstract}{106}{subsection.1.96.1}
+\contentsline {subsection}{\numberline {1.96.2}Knowledge}{106}{subsection.1.96.2}
+\contentsline {subsection}{\numberline {1.96.3}Questions}{106}{subsection.1.96.3}
+\contentsline {section}{\numberline {1.97}The Equation of State from Observed Masses and Radii of Neutron Stars}{107}{section.1.97}
+\contentsline {subsection}{\numberline {1.97.1}Abstract}{107}{subsection.1.97.1}
+\contentsline {subsection}{\numberline {1.97.2}Knowledge}{107}{subsection.1.97.2}
+\contentsline {subsection}{\numberline {1.97.3}Questions}{107}{subsection.1.97.3}
+\contentsline {section}{\numberline {1.98}The Nuclear Equation of State and Neutron Star Masses}{108}{section.1.98}
+\contentsline {subsection}{\numberline {1.98.1}Abstract}{108}{subsection.1.98.1}
+\contentsline {subsection}{\numberline {1.98.2}Knowledge}{108}{subsection.1.98.2}
+\contentsline {subsection}{\numberline {1.98.3}Questions}{108}{subsection.1.98.3}
+\contentsline {section}{\numberline {1.99}A 'kilonova' associated with the short-duration gamma-ray burst GRB 130603B}{109}{section.1.99}
+\contentsline {subsection}{\numberline {1.99.1}Abstract}{109}{subsection.1.99.1}
+\contentsline {subsection}{\numberline {1.99.2}Knowledge}{109}{subsection.1.99.2}
+\contentsline {subsection}{\numberline {1.99.3}Questions}{109}{subsection.1.99.3}

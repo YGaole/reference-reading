@@ -1,6 +1,6 @@
 \section[Nucleosynthesis in neutrino-driven winds .1. The physical conditions]{Nucleosynthesis in neutrino-driven winds .1. The physical conditions\protect\footnote{Author: Qian, Y. Z. Woosley, S. E. \\Address: NaN. \\DOI: 10.1086/177973 \\Journal: Astrophysical Journal(1996).}}
 \subsection{Abstract}
-在它生命的前20秒，中子星巨大的中微子亮度驱动了其表面可观的质量损失。以前的研究表明，这个中微子驱动的风可以出现R过程。这个核合成过程对中微子风的4个参数敏感：质量损失率、每个重子的熵、电子的比率、
+在它生命的前20秒，中子星巨大的中微子亮度驱动了其表面可观的质量损失。以前的研究表明，这个中微子驱动的风可以出现R过程。这个核合成过程对中微子风的4个参数敏感：质量损失率、每个重子的熵、电子的比率以及动力学时标。不同的作者，使用各种超新星的数值模型，得到大量不同的这些关键参数的值。这里，我们采用解析的方式得到这些值，并且通过使用隐式的流体力学代码进行数值计算来检验我们的解析解。使用我们解析的以及数值的方法，我们还研究了这些变化的参数怎样影响我们的结果。导出的熵通常比产生强R过程所需的值低2-3倍。我们还讨论了各种可能使风的熵更高或膨胀速度更快的各种参数。
 \subsection{Knowledge}
 
 \subsection{Questions}

@@ -1,6 +1,6 @@
 \section[Time-dependent force-free pulsar magnetospheres: Axisymmetric and oblique rotators]{Time-dependent force-free pulsar magnetospheres: Axisymmetric and oblique rotators\protect\footnote{Author: Spitkovsky, A. \\Address: NaN. \\DOI: 10.1086/507518 \\Journal: Astrophysical Journal(2006).}}
 \subsection{Abstract}
-许多天体物理物体的磁层可以用MHD(磁流体动力学)的低惯性（或force-free）极限来精确描述。本文提出了一种基于有限差分时间域方法的新的数值方法来求解无力相对论磁流体方程组，并给出了处理current sheets的自发形成的方法。我们用这种方法研究了脉冲星磁层在顺向(aligned)和斜向(oblique) 磁化的几何形状中随时间的演化。对于顺向的旋转体，我们证实了Contopoulos等人的时间无关解的一般性质。对于斜向的旋转体，我们提出了磁层的三维结构，并首次计算了脉冲星的自旋下降功率与磁轴倾角的函数关系。我们发现脉冲星的自旋下降光度是$L\simeq(\mu^2\Omega_\ast^4/c^3)(1+\sin^2\alpha)$，其中$\mu$是恒星的偶极矩，$\Omega_\ast$是转动频率，$\alpha$是磁倾角。我们还讨论了current sheet电阻率和重联对磁层结构和演化的影响。
+许多天体物理物体的磁层可以用MHD(磁流体动力学)的低惯性（或force-free）极限来精确描述。本文提出了一种基于有限差分时间域方法的新的数值方法来求解无力相对论磁流体方程组，并给出了处理current sheets的自发形成的方法。我们用这种方法研究了脉冲星磁层在顺向(aligned)和斜向(oblique) 磁化的几何形状中随时间的演化。对于顺向的旋转体，我们证实了Contopoulos等人的时间无关解的一般性质。对于斜向的旋转体，我们提出了磁层的三维结构，并首次计算了脉冲星的自旋下降功率与磁轴倾角的函数关系。我们发现脉冲星的自旋下降光度是$L\approx(\mu^2\Omega_\ast^4/c^3)(1+\sin^2\alpha)$，其中$\mu$是恒星的偶极矩，$\Omega_\ast$ 是转动频率，$\alpha$是磁倾角。我们还讨论了current sheet电阻率和重联对磁层结构和演化的影响。
 \subsection{Knowledge}
 
 \subsection{Questions}

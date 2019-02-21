@@ -1,6 +1,6 @@
 \section[Axial instability of rotating relativistic stars]{Axial instability of rotating relativistic stars\protect\footnote{Author:Friedman, J. L. Morsink, S. M. \\Address: NaN. \\DOI: 10.1086/305920 \\Journal: Astrophysical Journal(1998).}}
 \subsection{Abstract}
-旋转相对论恒星的摄动可以通过它们在宇称下的行为来分类。对于轴向的扰动($r$-model)，最初具有负的规范能的数据被发现，对于所有$m>2$的值以及任意慢的转动，都具有$e^{\textrm{im}\phi}$的角度依赖。
+旋转相对论恒星的摄动可以通过它们在宇称下的行为来分类。对于轴向的扰动($r$-model)，最初具有负的规范能的数据被发现，对于所有$m\ge2$的值以及任意慢的转动，都具有$e^{\textrm{im}\phi}$的角度依赖。这意味着对于旋转完全流体，这种扰动的不稳定性（或临界稳定性）。这种低$m$的不稳定性是明显区别于极性扰动的不稳定性的，后者首先是对于大的$m$值的。对于小的角速度$\Omega$，轴向不稳定性出现的时间尺度似乎与$\Omega$高的功率成正比。与极性模式一样，除了热的、快速旋转的中子星以外，粘度可能会再次增强稳定性。这项工作补充了Anderddon对缓慢旋转的中子星的轴向模型的数值研究。
 \subsection{Knowledge}
 
 \subsection{Questions}

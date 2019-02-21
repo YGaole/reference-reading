@@ -1,6 +1,6 @@
 \section[Gravitational radiation and rotation of accreting neutron stars]{Gravitational radiation and rotation of accreting neutron stars\protect\footnote{Author: Bildsten, L. \\Address: NaN. \\DOI: 10.1086/311440 \\Journal: Astrophysical Journal(1998).}}
 \subsection{Abstract}
-
+Rossi X射线定时探测器的最新发现表明，银河系中大多数快速吸积的($\dot{M}\gtrsim10^{-11}M_{\odot}\textrm{yr}^{-1}$)弱磁性($B\ll10^{11}$G)中子星都以$\nu_{s}\gtrsim250$Hz的自旋频率旋转。值得注意的是，它们都在一个很窄的频率范围内旋转（不超过2倍，许多都在300Hz的20\%以内）。我认为这些中子星旋转得如此快，以至于，平均来说，由吸积而增加的角动量都以引力波辐射而损失了。由于角动量损失率对$\nu_s$强的依赖，这自然解释了它们具有相似的自旋频率。假设内部温度在大尺度上的不对称性与自旋轴不对齐，那么在内壳层中温度敏感的电子俘获可以产生四级子($\sim10^{-7}MR^2$)，就需要达到$\nu_s\simeq300$Hz的极限情况。这个四级子只在吸积期间存在，并且在$\nu_s>(600-800)$Hz时，当吸积率$\dot{M}\gtrsim10^{-10}M_{\odot}\textrm{yr}^{-1}$时，会使得其难以形成射电脉冲星。许多来自于这类中子星的引力波强度约为$h_c\sim(0.5-1)\times10^{-26}$，而对于Sco X-1的引力波强度会大于$2\times10^{-26}$。预先知道他们的位置、自转频率、轨道周期将可以允许我们使用引力波探测器(LIGO, VIRGO和“双循环”GEO600探测器)深入的寻找这些周期性信号。
 \subsection{Knowledge}
 
 \subsection{Questions}

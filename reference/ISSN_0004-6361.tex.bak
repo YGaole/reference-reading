@@ -1,6 +1,6 @@
 \section[Model neutron star atmospheres with low magnetic fields .1. Atmospheres in radiative equilibrium]{Model neutron star atmospheres with low magnetic fields .1. Atmospheres in radiative equilibrium\protect\footnote{Author:Zavlin, V. E. Pavlov, G. G. Shibanov, Y. A. \\Address: NaN. \\ISSN: 0004-6361 \\Journal: Astronomy Astrophysics(1996).}}
 \subsection{Abstract}
-
+我们对$B\lesssim10^8-10^{10}$ G的低磁场中子星的大气进行了详细的研究，这个并不影响大气物质的透明度和状态方程。我们计算了在中子星预期的大的有效温度和引力吸积范围内的大气层结构，总的光谱通量，以及氢、氦和铁大气的specific intensity。铁大气是用OPAL不透明度库中的不透明度和状态方程来计算的。我们证明了模型大气光谱与黑体光谱有很大的不同。对于轻元素的大气，这个通量大于黑体辐射的通量，光谱在高能区域更硬，而在低能量下，光谱通量遵循(表面)温度低于有效温度瑞利-金斯定律。铁大气的光谱在软X射线范围内表现出明显的光谱特征。The emergent specific intensity表现出依赖于能量的各向异性。为了正确的解释中子星的可从X射线到紫外部分探测到的热力学的成分，应该考虑中子星大气层的这些性质。特别的是，用黑体模型拟合这些热力学成分与可能导致在辐射区域的参数的严重不正确。我们讨论了我们的大气模型在毫秒脉冲星PSR J0437-4715上的应用。
 \subsection{Knowledge}
 
 \subsection{Questions}
